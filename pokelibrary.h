@@ -45,10 +45,10 @@ private:
      * especially when there is no worthwhile (as in, worth the effort) ordering, and the runtime wouldn't compare
      * to a hash-map regardless */
 
-    unordered_map<string, Pokemon> * pokemon_library; //maps the name of a pokemon to its Pokemon object
-    unordered_map<string, Move> * move_library;  //maps the name of a move to its Move object
-    unordered_map<string, Item> * item_library; //maps the name of an item to its Item object
-    unordered_map<string, Ability> * ability_library; //maps the name of an ability to its Ability object
+    unordered_map<string, Pokemon>  pokemon_library; //maps the name of a pokemon to its Pokemon object
+   // unordered_map<string, Move> * move_library;  //maps the name of a move to its Move object
+    //unordered_map<string, Item> * item_library; //maps the name of an item to its Item object
+    //unordered_map<string, Ability> * ability_library; //maps the name of an ability to its Ability object
 
     /* these are the constructors for each library. The are private because they are called only by the default constructor (and that constructor is called only once at the beginning of the program).
      * The pokemon library is probably the largest. The pokemon objects themselves utilize most of the other libraries, probably, and there are lots of pokemon. That one is initialized via .txt file.

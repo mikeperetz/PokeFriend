@@ -9,9 +9,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 */
-    //std::unique_ptr<PokeLibrary> library( new PokeLibrary);
-
-    PokeLibrary library;
+    std::unique_ptr<PokeLibrary> library( new PokeLibrary);
 
     //library.make_pokemon_library();
 

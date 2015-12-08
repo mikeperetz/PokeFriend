@@ -21,7 +21,7 @@ void PokeLibrary::make_pokemon_library(){
  *       pokemon_library->clear();  */
 
 
-    unique_ptr<unordered_map<string, Pokemon>> pokemon_library( new unordered_map<string, Pokemon>() ); //lumps the pokemon_library hashtable onto the heap for consistent use
+    //unique_ptr<unordered_map<string, Pokemon>> pokemon_library( new unordered_map<string, Pokemon>() ); //lumps the pokemon_library hashtable onto the heap for consistent use
 
 
     /* okay, so let's get something straight: I just refactored for a good while after deciding to make all of these things into objects instead of hellish maps.
@@ -44,7 +44,7 @@ void PokeLibrary::make_pokemon_library(){
        //while ( !myfile.eof() ){                                              //temporarily commented out for debugging. Only cycles through one pokemon
 
           getline (myfile,name);                                               //first line is always the name. load it into "name", because we will modify that same pokemon until all of its maps are initialized
-          pokemon_library->insert(pair<string, Pokemon>(name,Pokemon(name)));  //map the name to the pokemon object associated with that name
+          pokemon_library.insert(pair<string, Pokemon>(name,Pokemon(name)));  //map the name to the pokemon object associated with that name
           string junk;                                                         //hold the "+" lines (see: .txt file), because i dont care to mess around with the semantics of streams rn :(
           getline (myfile, junk); getline(myfile,junk);                        //two of them seperate the name from the ability list
 
@@ -71,7 +71,7 @@ void PokeLibrary::make_pokemon_library(){
 
               Ability ability_obj(_ability);                                                             //construct an ability object using the ability name
 
-              (*pokemon_library)[name].addAbility(ability_obj, _probability);                            //I believe that we still need to map the ability to the probability, because probability is dependent on ability AND pokemon. I guess you could get fancy with keys, but having them seperated (hopefully) comes with some useful functionality later
+              (pokemon_library)[name].addAbility(ability_obj, _probability);                            //I believe that we still need to map the ability to the probability, because probability is dependent on ability AND pokemon. I guess you could get fancy with keys, but having them seperated (hopefully) comes with some useful functionality later
 
 
           }                                                                    // end of ability line parsing
@@ -104,13 +104,13 @@ void PokeLibrary::make_pokemon_library(){
               double _probability = stod(item_probability.substr(i+1, item_probability.length()));
 
               Item item_obj(_item);
-              (*pokemon_library)[name].addItem(item_obj, _probability);
+              (pokemon_library)[name].addItem(item_obj, _probability);
 
 
 
           } // end of item line parsing
 
-
+/*
           getline (myfile, junk); //one of them
 
           while(myfile.peek() != '+'){
@@ -152,14 +152,14 @@ void PokeLibrary::make_pokemon_library(){
 
 
               StatSpread statspread_obj(spread_nature, ev_spread_vector);
-              (*pokemon_library)[name].addStatSpread(statspread_obj, _probability);
+              (pokemon_library)[name].addStatSpread(statspread_obj, _probability);
 
 
 
 
 
           } // end of item line parsing
-
+*/
   //  } //end of iteration through entire file while loop
 
       myfile.close();
