@@ -3,21 +3,37 @@
 #include <cstdint>
 #include <map>
 #include <vector>
+#include "ability.h"
+#include "effect.h"
+#include "item.h"
+#include "move.h"
+#include "statspread.h"
+#include "type.h"
 
 using namespace std;
+
+/**
+ * @brief Each different pokemon is assigned a Pokemon object. These pokemon objects are stored within the pokemon_library in the PokeLibrary class. This is some complicated shit. Just like how PokeLibrary
+ * had 8 trillion different libraries, Pokemon has almost as many, but they are little baby ones (so I used normal maps teehee. would be gucci to sort all of them. If I have time, I'll see what i can do as
+ * far as incorporating the individual pokemon's statistics into the ability, item, etc. stats. They are small maps, though, (like... 1-20 things), so it doesn't really matter.
+ * TODO:
+ *  1) Figure out what I have to do. Probably initialize some stuff. Or finish the other classes first maybe. I have no idea right now. I'm so sleepy.
+ *  2) Pokemon cpp is uncommented because it is bed time
+ */
+
 
 class Pokemon {
 
 
 public:
 
-    Pokemon();
+    Pokemon();      //obvious default constructor is obvious. Initializes the maps to nothing
 
-    Pokemon(string pokemon_name);
+    Pokemon(string pokemon_name);       //oooh lordy this one initializes "name" to the name. Also, now we get to dig around in our PokeLibraries for all of that other info !
 
-    void addAbilityPair(Ability ability);
+    void addAbility(Ability ability, double probability);   //Wait what is this lol ill look tomorrow
 
-    vector<pair<string, double>> getAbilities();
+    vector<pair<Ability, double>> getAbilities();           //returns all of the abilities in case you are into that or something. man, these comments are getting shitty.
 
 
 
@@ -25,16 +41,16 @@ public:
 
 private:
 
-    string name;
+    string name;                                //the name of the pokemon, man
 
-    //The potential attributes of the pokemon with probability values as the leading element.
-    map<StatSpread> potential_stats; //map set name with the stat spread
-    map<Ability> potential_abilities;
-    map<Item> potential_items;
-    map<Move> potential_moves; //map set name with the moves
-    map<Type> potential_type; //for megas and zoroark
 
-    bool mega;
+    map<StatSpread, double> potential_stats;    //map of the common stat spreads to their probability
+    map<Ability, double> potential_abilities;   //map of the common abilities to their probability
+    map<Item, double> potential_items;          //map of the common items to their probability
+    map<Move, double> potential_moves;          //map of the common moves to their probability (probably want to associate moveset logic at some point. Idk we will see!)
+    map<Type, double> potential_type;           //map of the common types to their probability for megas and zoroark I guess.
+
+    bool mega;                                  //maybe i should make this a pair? It will have the same probability as the megastone item. Idk. We will see!
 
 
 

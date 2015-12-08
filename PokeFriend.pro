@@ -23,7 +23,10 @@ SOURCES += main.cpp\
     item.cpp \
     teampokemon.cpp \
     team.cpp \
-    effect.cpp
+    effect.cpp \
+    statspread.cpp \
+    type.cpp \
+    status.cpp
 
 HEADERS  += mainwindow.h \
     pokelibrary.h \
@@ -33,7 +36,10 @@ HEADERS  += mainwindow.h \
     item.h \
     teampokemon.h \
     team.h \
-    effect.h
+    effect.h \
+    statspread.h \
+    type.h \
+    status.h
 
 FORMS    += mainwindow.ui
 
