@@ -1,0 +1,4355 @@
+Garchomp
++
++
+Rough Skin 98.734%
+Sand Veil  1.266%
++
+Rocky Helmet 51.965%
+Focus Sash 21.031%
+Lum Berry 10.268%
+Choice Scarf  5.760%
+Life Orb  4.475%
+Garchompite  2.679%
+Other  3.823%
++
+Jolly:0/252/4/0/0/252 17.592%
+Jolly:0/252/0/0/4/252 15.954%
+Impish:252/0/164/0/0/92  5.329%
+Impish:240/0/176/0/0/92  3.569%
+Impish:248/0/168/0/0/92  3.139%
+Impish:252/0/160/0/0/96  2.886%
+Other 51.531%
++
+Earthquake 98.944%
+Stealth Rock 86.365%
+Dragon Tail 48.583%
+Fire Blast 42.541%
+Swords Dance 41.023%
+Dragon Claw 33.312%
+Outrage 16.127%
+Toxic  8.811%
+Stone Edge  5.960%
+Other 18.335%
++
+Teammates
+Tornadus-Therian 9.147%
+Bisharp 8.777%
+Scizor 7.604%
+Thundurus 7.339%
+Azumarill 5.817%
+Kingdra 4.710%
+Kabutops 4.703%
+Medicham 4.694%
+Politoed 4.245%
+Gengar 3.277%
+Manaphy 3.171%
+Starmie 3.102%
++
++
++
+Landorus-Therian
++
++
+Intimidate 100.000%
++
+Leftovers 35.025%
+Choice Scarf 27.185%
+Rocky Helmet 21.633%
+Earth Plate  6.228%
+Soft Sand  3.543%
+Passho Berry  1.939%
+Other  4.448%
++
+Jolly:0/252/0/0/4/252  7.446%
+Jolly:0/252/4/0/0/252  6.496%
+Impish:248/8/252/0/0/0  6.157%
+Impish:252/0/240/0/8/8  5.143%
+Adamant:248/88/156/0/0/16  4.158%
+Adamant:0/252/4/0/0/252  3.577%
+Other 67.023%
++
+Earthquake 99.840%
+U-turn 80.756%
+Stone Edge 64.754%
+Stealth Rock 64.749%
+Knock Off 33.988%
+Swords Dance 15.543%
+Explosion 10.030%
+Toxic  7.925%
+Rock Polish  5.810%
+Other 16.605%
++
+Teammates
+Hoopa-Unbound 8.430%
+Magnezone 8.359%
+Latios 6.916%
+Lopunny 6.536%
+Keldeo 6.347%
+Rotom-Wash 5.861%
+Heatran 4.854%
+Latias 3.980%
+Metagross 3.874%
+Raikou 3.412%
+Jirachi 2.833%
+Hydreigon 2.457%
++
++
++
+Keldeo
++
++
+Justified 100.000%
++
+Choice Specs 32.625%
+Choice Scarf 29.240%
+Leftovers 18.672%
+Life Orb 15.263%
+Other  4.199%
++
+Timid:0/0/0/252/4/252 47.591%
+Timid:4/0/0/252/0/252 15.938%
+Timid:0/0/4/252/0/252 15.782%
+Modest:0/0/0/252/4/252 12.051%
+Timid:0/0/0/252/0/252  1.621%
+Modest:0/0/4/252/0/252  1.195%
+Other  5.822%
++
+Secret Sword 99.604%
+Scald 96.764%
+Hydro Pump 63.275%
+Icy Wind 39.732%
+Hidden Power Electric 24.117%
+Calm Mind 17.461%
+Substitute 16.981%
+Rest  9.554%
+Sleep Talk  9.263%
+Taunt  7.521%
+Other 15.727%
++
+Teammates
+Heatran 13.927%
+Bisharp 11.854%
+Venusaur 7.730%
+Landorus-Therian 7.709%
+Alakazam 6.812%
+Medicham 5.949%
+Hoopa-Unbound 5.053%
+Chansey 4.647%
+Skarmory 3.773%
+Gardevoir 3.481%
+Celebi 3.257%
+Raikou 2.581%
++
++
++
+Tornadus-Therian
++
++
+Regenerator 100.000%
++
+Assault Vest 69.980%
+Life Orb 29.483%
+Other  0.536%
++
+Timid:96/0/0/160/0/252 20.380%
+Hasty:0/76/0/180/0/252 14.079%
+Timid:132/0/0/124/0/252  8.507%
+Hasty:96/0/0/160/0/252  7.138%
+Timid:76/0/0/180/0/252  4.088%
+Hasty:0/4/0/252/0/252  4.059%
+Other 41.749%
++
+Hurricane 99.082%
+U-turn 82.590%
+Knock Off 78.332%
+Heat Wave 49.637%
+Superpower 29.512%
+Taunt 21.417%
+Focus Blast 12.112%
+Grass Knot 11.200%
+Other 16.117%
++
+Teammates
+Scizor 14.909%
+Politoed 14.876%
+Garchomp 13.589%
+Kingdra 13.502%
+Kabutops 13.421%
+Rotom-Wash 11.508%
+Medicham 8.429%
+Hoopa-Unbound 8.160%
+Hippowdon 5.869%
+Raikou 5.573%
+Gardevoir 4.303%
+Swampert 3.569%
++
++
++
+Heatran
++
++
+Flash Fire 100.000%
++
+Leftovers 58.874%
+Air Balloon 21.335%
+Power Herb 10.566%
+Choice Scarf  7.247%
+Other  1.977%
++
+Timid:148/0/16/16/88/240 13.019%
+Timid:0/0/0/252/4/252 10.294%
+Calm:248/0/0/0/192/68  6.569%
+Calm:252/0/0/4/252/0  6.144%
+Timid:0/0/4/252/0/252  4.300%
+Timid:140/0/0/116/0/252  4.175%
+Other 55.501%
++
+Lava Plume 64.790%
+Stealth Rock 62.381%
+Toxic 58.426%
+Taunt 47.008%
+Earth Power 39.088%
+Magma Storm 22.989%
+Protect 22.259%
+Flash Cannon 21.492%
+Solar Beam 10.689%
+Roar 10.396%
+Fire Blast  9.885%
+Ancient Power  7.520%
+Stone Edge  7.443%
+Other 15.633%
++
+Teammates
+Venusaur 17.349%
+Keldeo 16.588%
+Gliscor 12.073%
+Slowbro 11.833%
+Skarmory 9.092%
+Chansey 7.438%
+Landorus-Therian 7.058%
+Ferrothorn 6.610%
+Alakazam 5.289%
+Lopunny 4.177%
+Latios 2.464%
+Bisharp 1.782%
++
++
++
+Scizor
++
++
+Technician 61.057%
+Light Metal 38.175%
+Swarm  0.768%
++
+Scizorite 70.195%
+Choice Band 17.561%
+Leftovers  5.714%
+Life Orb  4.344%
+Other  2.186%
++
+Adamant:248/16/60/0/124/60 15.272%
+Adamant:248/252/0/0/8/0 13.077%
+Adamant:32/252/0/0/0/224  8.793%
+Impish:248/44/16/0/200/0  5.523%
+Adamant:0/252/4/0/0/252  2.757%
+Careful:248/4/84/0/164/8  2.537%
+Other 52.041%
++
+Bullet Punch 99.832%
+Swords Dance 71.782%
+Roost 56.738%
+U-turn 52.372%
+Superpower 43.577%
+Bug Bite 30.110%
+Knock Off 17.772%
+Pursuit 15.286%
+Other 12.530%
++
+Teammates
+Tornadus-Therian 17.020%
+Garchomp 12.944%
+Politoed 11.862%
+Kingdra 11.764%
+Kabutops 11.553%
+Raikou 8.947%
+Hoopa-Unbound 7.262%
+Latios 3.336%
+Keldeo 2.108%
+Scolipede 1.828%
+Rotom-Wash 1.727%
+Mandibuzz 1.383%
++
++
++
+Excadrill
++
++
+Mold Breaker 50.828%
+Sand Rush 49.072%
+Sand Force  0.101%
++
+Choice Scarf 31.557%
+Life Orb 27.611%
+Air Balloon 19.841%
+Leftovers 14.896%
+Assault Vest  2.246%
+Other  3.849%
++
+Adamant:0/252/0/0/4/252 27.100%
+Jolly:0/252/0/0/4/252 21.606%
+Adamant:0/252/4/0/0/252 20.808%
+Jolly:0/252/4/0/0/252  4.844%
+Careful:224/0/0/0/252/32  4.406%
+Adamant:4/252/0/0/0/252  3.996%
+Other 17.241%
++
+Earthquake 99.915%
+Iron Head 98.306%
+Rapid Spin 88.631%
+Rock Slide 71.774%
+Swords Dance 18.783%
+Stealth Rock 16.411%
+Other  6.180%
++
+Teammates
+Tyranitar 21.859%
+Talonflame 11.918%
+Charizard 10.785%
+Dragonite 7.937%
+Pinsir 7.204%
+Rotom-Wash 6.551%
+Azelf 6.055%
+Chesnaught 4.822%
+Amoonguss 3.868%
+Manaphy 3.681%
+Hippowdon 3.430%
+Serperior 3.410%
++
++
++
+Talonflame
++
++
+Gale Wings 99.782%
+Flame Body  0.218%
++
+Leftovers 36.165%
+Sharp Beak 27.745%
+Choice Band 19.480%
+Nothing 11.813%
+Other  4.797%
++
+Jolly:0/252/0/0/4/252 18.630%
+Adamant:0/252/0/0/4/252 11.118%
+Careful:248/0/0/0/252/8  8.805%
+Jolly:0/252/4/0/0/252  7.564%
+Adamant:0/252/4/0/0/252  4.776%
+Adamant:248/252/0/0/0/8  4.323%
+Other 44.783%
++
+Brave Bird 87.778%
+Roost 79.242%
+Flare Blitz 55.596%
+Swords Dance 48.909%
+Will-O-Wisp 41.453%
+Taunt 23.697%
+U-turn 21.313%
+Tailwind 14.787%
+Acrobatics 12.414%
+Other 14.811%
++
+Teammates
+Starmie 17.815%
+Excadrill 12.308%
+Diancie 11.923%
+Manaphy 7.996%
+Sableye 7.521%
+Breloom 7.473%
+Azelf 6.466%
+Pinsir 5.801%
+Dragonite 5.536%
+Hippowdon 4.162%
+Dugtrio 3.680%
+Chesnaught 3.575%
++
++
++
+Skarmory
++
++
+Sturdy 99.086%
+Keen Eye  0.889%
+Weak Armor  0.026%
++
+Rocky Helmet 42.143%
+Leftovers 39.903%
+Custap Berry  8.368%
+Shed Shell  7.898%
+Other  1.688%
++
+Impish:248/0/80/0/176/4 14.637%
+Impish:248/0/252/0/8/0 10.164%
+Careful:248/0/8/0/252/0  7.021%
+Careful:248/0/16/0/244/0  6.338%
+Impish:248/0/236/0/0/24  5.746%
+Impish:252/0/252/0/4/0  3.559%
+Other 52.536%
++
+Roost 89.851%
+Spikes 79.005%
+Whirlwind 76.046%
+Iron Head 37.842%
+Brave Bird 37.435%
+Defog 30.872%
+Stealth Rock 18.709%
+Taunt 16.958%
+Other 13.282%
++
+Teammates
+Chansey 28.207%
+Venusaur 20.081%
+Sableye 14.582%
+Quagsire 12.829%
+Heatran 10.171%
+Gothitelle 10.138%
+Tyranitar 8.503%
+Amoonguss 8.191%
+Bisharp 7.224%
+Clefable 6.929%
+Keldeo 5.014%
+Gardevoir 4.806%
++
++
++
+Rotom-Wash
++
++
+Levitate 100.000%
++
+Leftovers 87.382%
+Chesto Berry  5.454%
+Choice Scarf  5.130%
+Other  2.034%
++
+Bold:252/0/252/4/0/0 19.531%
+Bold:248/0/252/0/0/8 10.835%
+Bold:248/0/216/0/0/44  8.820%
+Bold:248/0/240/0/20/0  8.297%
+Bold:248/0/252/0/8/0  5.266%
+Bold:252/0/252/0/4/0  5.080%
+Other 42.170%
++
+Volt Switch 99.297%
+Hydro Pump 99.105%
+Will-O-Wisp 94.878%
+Pain Split 87.417%
+Other 19.302%
++
+Teammates
+Tornadus-Therian 14.498%
+Lopunny 12.622%
+Medicham 12.283%
+Landorus-Therian 9.393%
+Excadrill 6.771%
+Hoopa-Unbound 5.672%
+Tyranitar 5.564%
+Amoonguss 4.528%
+Gardevoir 3.329%
+Weavile 2.882%
+Metagross 2.569%
+Sylveon 2.152%
++
++
++
+Bisharp
++
++
+Defiant 99.938%
+Inner Focus  0.035%
+Pressure  0.028%
++
+Life Orb 48.221%
+Leftovers 16.201%
+Focus Sash 10.938%
+Black Glasses  9.739%
+Lum Berry  5.963%
+Assault Vest  5.820%
+Other  3.119%
++
+Adamant:0/252/0/0/4/252 28.590%
+Jolly:0/252/4/0/0/252 15.564%
+Adamant:252/252/0/0/0/4 15.161%
+Jolly:0/252/0/0/4/252 13.569%
+Adamant:0/252/4/0/0/252  6.459%
+Adamant:248/252/0/0/8/0  3.058%
+Other 17.599%
++
+Iron Head 99.242%
+Knock Off 99.170%
+Sucker Punch 98.298%
+Swords Dance 77.718%
+Pursuit 18.381%
+Other  7.190%
++
+Teammates
+Garchomp 17.031%
+Keldeo 16.235%
+Venusaur 11.224%
+Starmie 10.856%
+Medicham 10.486%
+Chansey 8.908%
+Skarmory 7.450%
+Diancie 6.389%
+Thundurus 6.171%
+Breloom 5.585%
+Gengar 4.868%
+Lopunny 4.582%
++
++
++
+Clefable
++
++
+Magic Guard 71.934%
+Unaware 28.009%
+Cute Charm  0.057%
++
+Leftovers 98.055%
+Other  1.945%
++
+Calm:252/0/172/0/84/0 22.415%
+Calm:252/0/160/0/96/0 11.117%
+Bold:252/0/252/4/0/0  5.440%
+Calm:248/0/100/0/160/0  4.799%
+Bold:252/0/252/0/0/4  4.218%
+Bold:252/0/252/0/4/0  4.112%
+Other 47.899%
++
+Moonblast 99.319%
+Soft-Boiled 70.133%
+Calm Mind 58.823%
+Thunder Wave 52.648%
+Wish 22.149%
+Stealth Rock 21.297%
+Protect 20.840%
+Heal Bell 19.124%
+Flamethrower 14.240%
+Moonlight  7.044%
+Other 14.383%
++
+Teammates
+Hippowdon 9.252%
+Slowbro 7.727%
+Skarmory 7.146%
+Sableye 6.634%
+Manaphy 6.312%
+Chesnaught 5.172%
+Suicune 3.170%
+Zapdos 2.426%
+Infernape 2.357%
+Tentacruel 2.227%
+Gliscor 1.781%
+Venusaur 1.753%
++
++
++
+Tyranitar
++
++
+Sand Stream 99.744%
+Unnerve  0.256%
++
+Choice Scarf 43.489%
+Smooth Rock 17.522%
+Choice Band 10.723%
+Assault Vest  8.800%
+Chople Berry  5.961%
+Tyranitarite  5.877%
+Leftovers  4.120%
+Other  3.507%
++
+Jolly:0/252/0/0/4/252 21.768%
+Jolly:0/252/4/0/0/252 14.999%
+Relaxed:248/0/80/0/180/0  9.728%
+Sassy:248/8/0/0/252/0  6.676%
+Adamant:152/252/0/0/0/104  4.496%
+Jolly:4/252/0/0/0/252  3.215%
+Other 39.118%
++
+Pursuit 86.381%
+Stone Edge 84.761%
+Crunch 71.773%
+Superpower 52.352%
+Stealth Rock 29.063%
+Ice Beam 25.323%
+Fire Blast 12.517%
+Ice Punch  8.133%
+Earthquake  7.986%
+Dragon Dance  5.803%
+Other 15.907%
++
+Teammates
+Excadrill 25.505%
+Skarmory 9.614%
+Venusaur 6.755%
+Rotom-Wash 6.343%
+Slowbro 6.021%
+Amoonguss 5.975%
+Lopunny 5.707%
+Gliscor 5.523%
+Charizard 3.309%
+Gardevoir 3.172%
+Celebi 2.979%
+Latios 2.535%
++
++
++
+Ferrothorn
++
++
+Iron Barbs 99.993%
+Anticipation  0.007%
++
+Leftovers 83.835%
+Rocky Helmet  8.320%
+Shed Shell  4.873%
+Other  2.973%
++
+Relaxed:252/0/88/0/168/0 36.230%
+Sassy:252/0/88/0/168/0  9.424%
+Impish:252/0/88/0/168/0  2.976%
+Relaxed:252/4/252/0/0/0  2.672%
+Careful:252/0/4/0/252/0  2.602%
+Relaxed:252/0/148/0/108/0  2.227%
+Other 43.868%
++
+Leech Seed 96.869%
+Gyro Ball 78.965%
+Spikes 66.002%
+Power Whip 64.629%
+Protect 35.673%
+Stealth Rock 33.959%
+Thunder Wave 11.944%
+Other 11.959%
++
+Teammates
+Gliscor 14.439%
+Slowbro 10.213%
+Hippowdon 8.390%
+Heatran 8.175%
+Alakazam 6.866%
+Starmie 5.083%
+Latias 4.183%
+Swampert 3.926%
+Diancie 3.635%
+Mew 3.572%
+Charizard 3.315%
+Politoed 2.988%
++
++
++
+Latios
++
++
+Levitate 100.000%
++
+Life Orb 79.205%
+Choice Specs 10.691%
+Choice Scarf  8.406%
+Other  1.698%
++
+Timid:0/0/0/252/4/252 67.190%
+Timid:0/0/4/252/0/252  9.708%
+Hasty:0/4/0/252/0/252  6.129%
+Timid:4/0/0/252/0/252  5.152%
+Modest:0/0/0/252/4/252  2.042%
+Timid:32/0/0/224/0/252  1.906%
+Other  7.874%
++
+Draco Meteor 97.898%
+Psyshock 90.596%
+Defog 64.515%
+Roost 37.286%
+Hidden Power Fire 23.848%
+Recover 15.624%
+Surf 14.090%
+Trick 14.052%
+Earthquake  9.837%
+Calm Mind  8.543%
+Thunderbolt  5.579%
+Other 18.131%
++
+Teammates
+Landorus-Therian 13.226%
+Azumarill 8.181%
+Magnezone 7.819%
+Hippowdon 7.304%
+Metagross 5.050%
+Scizor 4.393%
+Charizard 3.390%
+Heatran 3.264%
+Lopunny 3.185%
+Keldeo 3.177%
+Weavile 2.799%
+Tyranitar 2.657%
++
++
++
+Azumarill
++
++
+Huge Power 94.813%
+Sap Sipper  4.928%
+Thick Fat  0.259%
++
+Choice Band 43.888%
+Sitrus Berry 23.627%
+Assault Vest 19.066%
+Lum Berry  7.306%
+Leftovers  5.107%
+Other  1.005%
++
+Adamant:240/252/0/0/16/0  9.539%
+Adamant:172/252/0/0/0/84  8.789%
+Adamant:160/252/0/0/0/96  7.775%
+Adamant:248/252/0/0/8/0  7.361%
+Adamant:80/252/0/0/0/176  6.901%
+Adamant:92/252/0/0/0/164  5.327%
+Other 54.307%
++
+Play Rough 94.937%
+Aqua Jet 94.923%
+Waterfall 70.242%
+Knock Off 52.205%
+Superpower 30.344%
+Belly Drum 23.715%
+Iron Tail  6.853%
+Rest  4.817%
+Scald  4.796%
+Other 17.167%
++
+Teammates
+Garchomp 13.341%
+Thundurus 12.714%
+Lopunny 10.048%
+Magnezone 8.993%
+Latios 8.381%
+Raikou 4.747%
+Hydreigon 4.559%
+Charizard 4.525%
+Gengar 4.344%
+Metagross 3.596%
+Jirachi 3.096%
+Scolipede 2.798%
++
++
++
+Manaphy
++
++
+Hydration 100.000%
++
+Leftovers 84.589%
+Wacan Berry  6.509%
+Shed Shell  4.205%
+Other  4.696%
++
+Timid:0/0/0/252/4/252  9.624%
+Timid:96/0/0/252/0/160  7.891%
+Modest:80/0/0/252/0/176  7.407%
+Timid:80/0/0/252/0/176  6.481%
+Modest:96/0/0/252/0/160  6.414%
+Timid:140/0/0/252/0/116  6.414%
+Other 55.769%
++
+Scald 92.265%
+Tail Glow 86.118%
+Rain Dance 53.076%
+Energy Ball 44.000%
+Ice Beam 37.039%
+Psychic 25.681%
+Rest 21.461%
+Hidden Power Fire 15.937%
+Calm Mind 13.449%
+Other 10.974%
++
+Teammates
+Talonflame 11.213%
+Azelf 11.030%
+Hippowdon 9.584%
+Latias 9.232%
+Clefable 8.561%
+Garchomp 8.394%
+Pinsir 8.200%
+Dragonite 7.554%
+Gardevoir 5.505%
+Excadrill 5.398%
+Skarmory 4.918%
+Togekiss 3.301%
++
++
++
+Latias
++
++
+Levitate 100.000%
++
+Life Orb 76.833%
+Latiasite 12.626%
+Leftovers  5.792%
+Other  4.748%
++
+Timid:72/0/0/184/0/252 35.006%
+Timid:0/0/0/252/4/252 25.505%
+Timid:112/0/0/144/0/252  9.541%
+Timid:0/0/4/252/0/252  2.075%
+Timid:4/0/0/252/0/252  1.954%
+Timid:248/0/8/0/0/252  1.769%
+Other 24.151%
++
+Draco Meteor 82.243%
+Psyshock 77.964%
+Healing Wish 62.576%
+Defog 61.292%
+Roost 36.252%
+Recover 13.736%
+Thunderbolt 12.716%
+Thunder Wave  9.826%
+Ice Beam  9.394%
+Hidden Power Fire  8.377%
+Calm Mind  5.262%
+Psychic  3.622%
+Other 16.741%
++
+Teammates
+Metagross 11.992%
+Manaphy 10.020%
+Landorus-Therian 9.720%
+Weavile 6.913%
+Breloom 6.012%
+Ferrothorn 5.736%
+Gyarados 4.351%
+Rotom-Wash 3.165%
+Rotom-Heat 2.940%
+Reuniclus 2.562%
+Barbaracle 2.528%
+Togekiss 2.197%
++
++
++
+Lopunny
++
++
+Limber 80.114%
+Cute Charm 19.310%
+Klutz  0.576%
++
+Lopunnite 99.931%
+Other  0.069%
++
+Jolly:0/252/0/0/4/252 53.202%
+Jolly:0/252/4/0/0/252 24.829%
+Jolly:4/252/0/0/0/252  6.703%
+Adamant:0/252/0/0/4/252  5.343%
+Adamant:0/252/4/0/0/252  4.012%
+Adamant:16/252/0/0/0/240  2.823%
+Other  3.087%
++
+Fake Out 97.372%
+High Jump Kick 95.919%
+Return 70.617%
+Ice Punch 46.435%
+Frustration 27.823%
+Power-Up Punch 25.382%
+Quick Attack 23.908%
+Other 12.545%
++
+Teammates
+Rotom-Wash 19.546%
+Landorus-Therian 16.320%
+Azumarill 12.783%
+Gengar 12.725%
+Tyranitar 7.856%
+Amoonguss 7.304%
+Heatran 7.301%
+Bisharp 6.940%
+Hoopa-Unbound 6.452%
+Latios 4.210%
+Thundurus 4.005%
+Magnezone 3.919%
++
++
++
+Starmie
++
++
+Analytic 50.646%
+Natural Cure 48.904%
+Illuminate  0.450%
++
+Life Orb 55.472%
+Leftovers 41.383%
+Other  3.144%
++
+Timid:0/0/0/252/4/252 49.963%
+Timid:252/0/0/4/0/252  4.108%
+Timid:248/0/0/0/8/252  4.020%
+Timid:0/0/4/252/0/252  3.789%
+Timid:248/0/8/0/0/252  3.605%
+Bold:248/0/252/0/0/8  3.325%
+Other 31.190%
++
+Rapid Spin 97.391%
+Hydro Pump 51.056%
+Ice Beam 48.987%
+Scald 47.721%
+Recover 43.784%
+Thunderbolt 35.282%
+Psyshock 33.096%
+Reflect Type 13.004%
+Psychic 12.415%
+Other 17.266%
++
+Teammates
+Talonflame 27.872%
+Diancie 17.806%
+Bisharp 16.543%
+Breloom 15.866%
+Hippowdon 11.569%
+Kyurem-Black 10.279%
+Garchomp 9.122%
+Ferrothorn 7.176%
+Charizard 6.751%
+Klefki 4.462%
+Raikou 1.863%
+Pinsir 1.033%
++
++
++
+Hippowdon
++
++
+Sand Stream 84.796%
+Sand Force 15.204%
++
+Leftovers 87.689%
+Smooth Rock  8.471%
+Other  3.840%
++
+Impish:252/0/144/0/112/0 44.210%
+Impish:252/0/112/0/144/0  6.089%
+Impish:252/4/252/0/0/0  4.907%
+Impish:248/0/144/0/116/0  2.770%
+Impish:236/0/252/0/20/0  2.470%
+Careful:248/0/32/0/228/0  2.118%
+Other 37.436%
++
+Slack Off 99.478%
+Earthquake 99.456%
+Stealth Rock 97.390%
+Stone Edge 56.189%
+Toxic 21.442%
+Whirlwind 18.093%
+Other  7.952%
++
+Teammates
+Clefable 15.107%
+Ferrothorn 12.720%
+Tornadus-Therian 12.533%
+Starmie 12.503%
+Manaphy 11.599%
+Charizard 10.759%
+Latios 10.378%
+Talonflame 7.062%
+Excadrill 6.028%
+Gardevoir 5.269%
+Raikou 3.043%
+Altaria 2.866%
++
++
++
+Thundurus
++
++
+Prankster 94.003%
+Defiant  5.997%
++
+Life Orb 66.056%
+Leftovers 29.569%
+Other  4.374%
++
+Timid:0/0/0/252/4/252 47.377%
+Timid:0/0/4/252/0/252 33.390%
+Naive:0/76/0/180/0/252  4.404%
+Timid:4/0/0/252/0/252  3.541%
+Naive:0/4/0/252/0/252  1.610%
+Hasty:0/4/0/252/0/252  1.578%
+Other  8.099%
++
+Thunderbolt 94.637%
+Hidden Power Ice 86.883%
+Thunder Wave 71.808%
+Focus Blast 59.657%
+Nasty Plot 34.922%
+Grass Knot 11.460%
+Knock Off  9.646%
+Hidden Power Flying  7.685%
+Superpower  6.729%
+Other 16.573%
++
+Teammates
+Garchomp 25.514%
+Azumarill 19.259%
+Metagross 13.026%
+Bisharp 11.054%
+Gengar 7.086%
+Lopunny 4.713%
+Excadrill 3.711%
+Mandibuzz 3.242%
+Latios 2.593%
+Charizard 2.281%
+Hydreigon 1.737%
+Scizor 1.568%
++
++
++
+Slowbro
++
++
+Regenerator 99.366%
+Oblivious  0.620%
+Own Tempo  0.014%
++
+Leftovers 70.813%
+Slowbronite 20.205%
+Rocky Helmet  5.394%
+Other  3.587%
++
+Bold:252/0/232/0/24/0 13.761%
+Bold:248/0/224/0/28/8  8.359%
+Bold:252/0/252/4/0/0  6.992%
+Bold:252/0/204/0/52/0  5.524%
+Bold:252/0/220/0/36/0  5.122%
+Bold:252/0/236/0/16/4  4.394%
+Other 55.848%
++
+Scald 97.906%
+Slack Off 90.928%
+Psyshock 72.195%
+Calm Mind 63.357%
+Thunder Wave 24.754%
+Ice Beam 10.801%
+Toxic 10.279%
+Fire Blast  6.170%
+Flamethrower  5.289%
+Other 18.322%
++
+Teammates
+Gliscor 29.014%
+Heatran 24.893%
+Ferrothorn 17.185%
+Clefable 14.038%
+Alakazam 10.762%
+Tyranitar 10.008%
+Chesnaught 7.672%
+Venusaur 5.069%
+Sableye 5.023%
+Zapdos 3.981%
+Excadrill 3.315%
+Skarmory 3.295%
++
++
++
+Hoopa-Unbound
++
++
+Magician 100.000%
++
+Life Orb 33.457%
+Choice Band 26.833%
+Choice Scarf 17.644%
+Nothing  7.604%
+Focus Sash  4.105%
+Choice Specs  3.305%
+Assault Vest  2.984%
+Other  4.068%
++
+Jolly:0/252/0/0/4/252 12.254%
+Hasty:0/4/0/252/0/252  9.512%
+Hasty:0/252/0/4/0/252  8.544%
+Timid:0/0/0/252/4/252  7.715%
+Jolly:4/252/0/0/0/252  6.527%
+Hasty:0/36/0/252/0/220  6.044%
+Other 49.405%
++
+Gunk Shot 70.874%
+Drain Punch 64.302%
+Hyperspace Fury 57.346%
+Dark Pulse 43.208%
+Psyshock 25.635%
+Fire Punch 25.416%
+Psychic 20.256%
+Zen Headbutt 15.209%
+Trick 12.885%
+Focus Blast 12.735%
+Hidden Power Ice  9.029%
+Substitute  7.135%
+Grass Knot  6.261%
+Energy Ball  5.434%
+Nasty Plot  4.436%
+Other 19.840%
++
+Teammates
+Landorus-Therian 25.261%
+Tornadus-Therian 19.262%
+Scizor 15.012%
+Keldeo 12.550%
+Rotom-Wash 10.616%
+Raikou 8.558%
+Lopunny 7.761%
+Manectric 6.663%
+Klefki 5.094%
+Hawlucha 3.133%
+Kyurem-Black 1.984%
+Altaria 1.187%
++
++
++
+Sableye
++
++
+Prankster 98.330%
+Keen Eye  1.019%
+Stall  0.651%
++
+Sablenite 96.636%
+Other  3.364%
++
+Careful:252/0/112/0/144/0 10.232%
+Calm:252/0/152/0/96/8  8.767%
+Impish:248/0/252/0/0/8  6.972%
+Impish:252/0/48/0/208/0  6.729%
+Bold:248/0/152/0/96/12  4.427%
+Bold:248/0/80/0/180/0  4.238%
+Other 58.635%
++
+Recover 99.785%
+Will-O-Wisp 98.738%
+Knock Off 52.008%
+Foul Play 39.699%
+Fake Out 31.516%
+Calm Mind 26.027%
+Shadow Ball 11.448%
+Toxic  9.517%
+Dark Pulse  8.673%
+Protect  7.779%
+Other 14.811%
++
+Teammates
+Chansey 27.218%
+Skarmory 27.201%
+Quagsire 24.273%
+Gothitelle 21.270%
+Amoonguss 14.415%
+Talonflame 13.978%
+Shedinja 12.640%
+Clefable 11.872%
+Dugtrio 11.621%
+Togekiss 9.223%
+Chesnaught 7.766%
+Volcarona 7.060%
++
++
++
+Charizard
++
++
+Blaze 98.433%
+Solar Power  1.567%
++
+Charizardite X 65.213%
+Charizardite Y 34.576%
+Other  0.211%
++
+Timid:0/0/0/252/4/252  8.819%
+Modest:0/0/0/252/4/252  8.593%
+Jolly:0/252/0/0/4/252  8.451%
+Adamant:0/252/0/0/4/252  6.915%
+Jolly:72/252/0/0/0/184  5.935%
+Timid:0/0/4/252/0/252  5.018%
+Other 56.268%
++
+Roost 80.828%
+Flare Blitz 61.157%
+Dragon Dance 52.363%
+Dragon Claw 45.135%
+Solar Beam 33.860%
+Focus Blast 23.586%
+Fire Blast 23.079%
+Earthquake 18.604%
+Will-O-Wisp 18.324%
+Flamethrower 11.129%
+Outrage  5.445%
+Dragon Tail  4.274%
+Air Slash  3.428%
+Other 18.786%
++
+Teammates
+Excadrill 22.187%
+Hippowdon 12.678%
+Starmie 8.555%
+Azumarill 7.315%
+Ferrothorn 5.867%
+Tyranitar 5.710%
+Latios 5.575%
+Raikou 5.104%
+Mandibuzz 4.659%
+Serperior 4.456%
+Klefki 2.877%
+Zapdos 2.423%
++
++
++
+Chansey
++
++
+Natural Cure 99.713%
+Serene Grace  0.155%
+Healer  0.132%
++
+Eviolite 99.581%
+Other  0.419%
++
+Bold:248/0/252/0/8/0 46.589%
+Bold:4/0/252/0/252/0 14.852%
+Bold:176/0/252/0/80/0 11.669%
+Bold:252/0/252/0/4/0  4.748%
+Bold:0/0/252/0/252/4  4.153%
+Bold:12/0/248/0/248/0  3.295%
+Other 14.693%
++
+Seismic Toss 98.030%
+Soft-Boiled 96.815%
+Thunder Wave 48.236%
+Stealth Rock 46.042%
+Heal Bell 41.972%
+Aromatherapy 40.628%
+Toxic 16.550%
+Other 11.728%
++
+Teammates
+Skarmory 59.841%
+Quagsire 32.853%
+Sableye 30.824%
+Venusaur 28.219%
+Gothitelle 23.344%
+Bisharp 18.343%
+Heatran 17.550%
+Amoonguss 15.763%
+Keldeo 12.959%
+Suicune 8.384%
+Cresselia 4.578%
+Gliscor 3.643%
++
++
++
+Breloom
++
++
+Technician 95.185%
+Poison Heal  4.661%
+Effect Spore  0.154%
++
+Life Orb 52.119%
+Focus Sash 41.207%
+Toxic Orb  4.577%
+Other  2.097%
++
+Jolly:0/252/0/0/4/252 37.931%
+Adamant:0/252/0/0/4/252 16.830%
+Jolly:0/252/4/0/0/252 14.821%
+Adamant:32/252/0/0/0/224 14.805%
+Adamant:0/252/4/0/0/252  5.656%
+Jolly:4/252/0/0/0/252  3.016%
+Other  6.941%
++
+Mach Punch 96.206%
+Spore 95.782%
+Bullet Seed 95.211%
+Swords Dance 61.591%
+Rock Tomb 16.390%
+Focus Punch 12.293%
+Superpower  9.254%
+Other 13.273%
++
+Teammates
+Starmie 22.521%
+Diancie 18.418%
+Talonflame 16.614%
+Bisharp 12.062%
+Weavile 12.052%
+Metagross 8.931%
+Latias 8.802%
+Landorus-Therian 8.339%
+Garchomp 7.618%
+Excadrill 3.829%
+Gyarados 3.822%
+Rotom-Wash 3.511%
++
++
++
+Kyurem-Black
++
++
+Teravolt 100.000%
++
+Life Orb 48.358%
+Choice Scarf 30.036%
+Assault Vest 11.451%
+Leftovers  5.183%
+Other  4.972%
++
+Naughty:0/252/0/4/0/252 20.581%
+Mild:0/20/0/252/0/236  6.339%
+Mild:0/4/0/252/0/252  5.536%
+Hasty:0/252/0/4/0/252  5.363%
+Naive:0/252/0/4/0/252  3.980%
+Rash:0/4/0/252/0/252  3.936%
+Other 54.264%
++
+Ice Beam 96.694%
+Fusion Bolt 91.537%
+Earth Power 58.688%
+Outrage 44.337%
+Iron Head 38.621%
+Hidden Power Fire 27.068%
+Roost 26.123%
+Other 16.931%
++
+Teammates
+Starmie 14.569%
+Pinsir 14.073%
+Empoleon 13.118%
+Dragonite 9.785%
+Alakazam 9.433%
+Garchomp 9.306%
+Diancie 8.319%
+Hawlucha 4.942%
+Metagross 3.985%
+Magnezone 3.651%
+Landorus-Therian 3.253%
+Seismitoad 3.105%
++
++
++
+Venusaur
++
++
+Overgrow 63.929%
+Chlorophyll 36.071%
++
+Venusaurite 95.880%
+Other  4.120%
++
+Bold:248/0/252/8/0/0 34.156%
+Bold:248/0/96/0/144/20  8.488%
+Bold:248/0/192/0/48/20  7.107%
+Modest:232/0/0/252/4/20  5.571%
+Bold:200/0/112/0/196/0  4.898%
+Bold:252/0/160/0/96/0  2.377%
+Other 37.402%
++
+Giga Drain 98.246%
+Synthesis 93.085%
+Hidden Power Fire 86.903%
+Sludge Bomb 63.208%
+Leech Seed 44.093%
+Other 14.465%
++
+Teammates
+Skarmory 45.962%
+Heatran 44.608%
+Chansey 30.422%
+Bisharp 25.161%
+Keldeo 23.693%
+Tyranitar 13.751%
+Gliscor 10.591%
+Slowbro 6.215%
+Clefable 3.982%
+Entei 1.324%
+Zapdos 1.053%
+Slowking 0.840%
++
++
++
+Raikou
++
++
+Pressure 100.000%
++
+Leftovers 28.152%
+Assault Vest 24.339%
+Choice Specs 22.090%
+Wise Glasses 16.454%
+Expert Belt  2.752%
+Zap Plate  2.334%
+Other  3.879%
++
+Timid:0/0/0/252/4/252 69.949%
+Timid:0/0/4/252/0/252 18.822%
+Timid:4/0/0/252/0/252  3.007%
+Timid:0/0/0/252/32/224  1.281%
+Rash:0/0/0/252/4/252  1.125%
+Timid:0/0/0/252/0/252  0.625%
+Other  5.192%
++
+Hidden Power Ice 97.536%
+Thunderbolt 96.072%
+Volt Switch 84.210%
+Shadow Ball 44.441%
+Calm Mind 27.889%
+Toxic 19.587%
+Substitute 13.437%
+Other 16.827%
++
+Teammates
+Scizor 22.429%
+Tornadus-Therian 15.925%
+Landorus-Therian 12.385%
+Hoopa-Unbound 10.355%
+Azumarill 8.812%
+Keldeo 7.739%
+Charizard 5.839%
+Scolipede 5.359%
+Hippowdon 4.063%
+Starmie 2.667%
+Qwilfish 1.558%
+Gardevoir 1.342%
++
++
++
+Metagross
++
++
+Clear Body 99.882%
+Light Metal  0.118%
++
+Metagrossite 90.514%
+Assault Vest  8.198%
+Other  1.288%
++
+Jolly:0/252/0/0/4/252 28.759%
+Jolly:0/252/4/0/0/252 14.013%
+Adamant:72/252/0/0/0/184 13.034%
+Adamant:160/252/0/0/0/96  9.939%
+Adamant:248/252/0/0/8/0  7.055%
+Jolly:4/252/0/0/0/252  5.401%
+Other 21.800%
++
+Meteor Mash 88.293%
+Zen Headbutt 70.072%
+Hammer Arm 53.600%
+Bullet Punch 41.811%
+Ice Punch 28.931%
+Pursuit 25.564%
+Earthquake 25.421%
+Rock Polish 22.159%
+Thunder Punch 13.457%
+Grass Knot 11.496%
+Other 19.195%
++
+Teammates
+Latias 18.584%
+Thundurus 16.587%
+Landorus-Therian 14.637%
+Weavile 12.757%
+Garchomp 12.218%
+Latios 9.987%
+Breloom 9.460%
+Azumarill 6.942%
+Rotom-Wash 6.085%
+Kyurem-Black 4.236%
+Hydreigon 4.035%
+Conkeldurr 3.149%
++
++
++
+Gliscor
++
++
+Poison Heal 98.225%
+Sand Veil  1.405%
+Hyper Cutter  0.370%
++
+Toxic Orb 98.131%
+Other  1.869%
++
+Careful:244/0/8/0/200/56  9.137%
+Careful:244/0/0/0/192/72  7.960%
+Careful:244/0/0/0/208/56  7.484%
+Impish:244/0/40/0/0/224  6.442%
+Careful:244/0/8/0/96/160  5.955%
+Impish:248/0/56/0/148/56  4.870%
+Other 58.152%
++
+Earthquake 98.375%
+Roost 79.699%
+Swords Dance 68.560%
+Knock Off 44.965%
+Facade 18.928%
+Toxic 17.145%
+Protect 16.091%
+Substitute 12.801%
+Taunt  9.338%
+Stealth Rock  7.869%
+Ice Fang  7.377%
+Other 18.853%
++
+Teammates
+Slowbro 36.315%
+Heatran 31.747%
+Ferrothorn 30.298%
+Alakazam 16.174%
+Tyranitar 11.440%
+Venusaur 10.819%
+Keldeo 7.894%
+Suicune 6.229%
+Mew 4.965%
+Chansey 4.080%
+Clefable 4.028%
+Altaria 3.949%
++
++
++
+Alakazam
++
++
+Magic Guard 98.618%
+Synchronize  1.301%
+Inner Focus  0.082%
++
+Alakazite 59.038%
+Life Orb 28.206%
+Focus Sash 12.240%
+Other  0.516%
++
+Timid:0/0/0/252/4/252 77.109%
+Timid:0/0/4/252/0/252 12.600%
+Timid:4/0/0/252/0/252  5.092%
+Modest:0/0/0/252/4/252  1.917%
+Other  3.282%
++
+Focus Blast 95.963%
+Psychic 89.977%
+Shadow Ball 88.791%
+Encore 29.774%
+Calm Mind 22.563%
+Substitute 19.895%
+Psyshock 10.413%
+Dazzling Gleam 10.304%
+Hidden Power Fire  6.246%
+Signal Beam  5.579%
+Energy Ball  4.708%
+Other 15.787%
++
+Teammates
+Keldeo 21.689%
+Gliscor 16.456%
+Ferrothorn 14.707%
+Heatran 14.140%
+Slowbro 13.691%
+Empoleon 13.670%
+Dragonite 11.494%
+Pinsir 11.036%
+Kyurem-Black 10.172%
+Garchomp 9.340%
+Klefki 3.496%
+Thundurus 1.733%
++
++
++
+Diancie
++
++
+Clear Body 100.000%
++
+Diancite 98.732%
+Other  1.268%
++
+Naive:0/4/0/252/0/252 27.137%
+Naive:0/20/0/236/0/252 19.418%
+Hasty:0/4/0/252/0/252 12.394%
+Naive:0/32/0/224/0/252  7.890%
+Timid:0/0/4/252/0/252  4.186%
+Naive:0/36/0/220/0/252  3.127%
+Other 25.848%
++
+Moonblast 99.491%
+Diamond Storm 95.784%
+Protect 85.373%
+Earth Power 55.641%
+Hidden Power Fire 43.912%
+Other 19.800%
++
+Teammates
+Talonflame 29.199%
+Starmie 27.889%
+Breloom 20.323%
+Magnezone 16.858%
+Bisharp 15.217%
+Kyurem-Black 9.185%
+Garchomp 8.363%
+Ferrothorn 7.997%
+Hydreigon 6.222%
+Hawlucha 5.443%
+Jirachi 4.810%
+Landorus-Therian 4.775%
++
++
++
+Gardevoir
++
++
+Trace 86.817%
+Synchronize 13.110%
+Telepathy  0.073%
++
+Gardevoirite 97.485%
+Other  2.515%
++
+Timid:0/0/24/232/0/252 29.177%
+Modest:0/0/24/232/0/252 13.756%
+Timid:0/0/0/252/4/252 10.668%
+Timid:16/0/8/232/0/252  8.244%
+Modest:0/0/0/252/4/252  3.899%
+Timid:4/0/0/252/0/252  3.852%
+Other 30.406%
++
+Hyper Voice 96.993%
+Psyshock 94.177%
+Focus Blast 84.791%
+Taunt 42.469%
+Will-O-Wisp 24.463%
+Calm Mind 23.887%
+Rest  5.676%
+Hidden Power Fire  5.005%
+Moonblast  2.751%
+Other 19.788%
++
+Teammates
+Tornadus-Therian 13.659%
+Skarmory 12.064%
+Keldeo 11.641%
+Manaphy 9.908%
+Landorus-Therian 8.427%
+Rotom-Wash 8.389%
+Excadrill 8.132%
+Hippowdon 7.841%
+Tyranitar 7.027%
+Garchomp 5.299%
+Breloom 3.326%
+Talonflame 2.189%
++
++
++
+Weavile
++
++
+Pressure 80.811%
+Pickpocket 19.189%
++
+Life Orb 90.325%
+Focus Sash  6.528%
+Other  3.147%
++
+Jolly:0/252/0/0/4/252 59.103%
+Jolly:0/252/4/0/0/252 35.988%
+Other  4.909%
++
+Knock Off 99.194%
+Ice Shard 94.625%
+Icicle Crash 94.007%
+Low Kick 47.250%
+Pursuit 35.647%
+Swords Dance 13.321%
+Other 15.956%
++
+Teammates
+Breloom 14.567%
+Metagross 14.559%
+Latias 12.214%
+Landorus-Therian 9.797%
+Rotom-Wash 7.729%
+Latios 6.277%
+Manectric 4.390%
+Wobbuffet 4.345%
+Magnezone 3.378%
+Azelf 3.078%
+Aerodactyl 1.917%
+Klefki 1.216%
++
++
++
+Magnezone
++
++
+Magnet Pull 98.537%
+Analytic  0.788%
+Sturdy  0.675%
++
+Choice Scarf 59.127%
+Choice Specs 21.733%
+Assault Vest  7.513%
+Leftovers  4.629%
+Expert Belt  3.943%
+Other  3.055%
++
+Timid:0/0/0/252/4/252 47.910%
+Timid:0/0/4/252/0/252 12.001%
+Modest:0/0/4/252/252/0  7.239%
+Modest:0/0/0/252/4/252  4.902%
+Modest:200/0/0/164/0/144  2.612%
+Bold:128/0/252/128/0/0  2.468%
+Other 22.869%
++
+Flash Cannon 99.772%
+Hidden Power Fire 95.891%
+Volt Switch 94.226%
+Thunderbolt 86.368%
+Discharge 10.058%
+Other 13.686%
++
+Teammates
+Landorus-Therian 36.660%
+Azumarill 20.256%
+Diancie 18.894%
+Latios 18.046%
+Altaria 11.320%
+Lopunny 6.911%
+Hydreigon 6.616%
+Hawlucha 6.207%
+Jirachi 5.231%
+Kyurem-Black 4.524%
+Gyarados 4.519%
+Virizion 4.246%
++
++
++
+Gengar
++
++
+Levitate 100.000%
++
+Life Orb 69.010%
+Choice Scarf  9.417%
+Black Sludge  8.623%
+Focus Sash  8.199%
+Other  4.751%
++
+Timid:0/0/0/252/4/252 72.985%
+Timid:4/0/0/252/0/252  9.802%
+Timid:0/0/4/252/0/252  6.949%
+Jolly:4/0/0/252/0/252  3.007%
+Timid:8/0/0/248/0/252  1.526%
+Timid:0/0/0/252/0/252  0.827%
+Other  4.905%
++
+Shadow Ball 94.038%
+Sludge Wave 80.857%
+Focus Blast 74.158%
+Taunt 38.289%
+Pain Split 21.299%
+Destiny Bond 20.011%
+Substitute 15.446%
+Sludge Bomb  9.280%
+Will-O-Wisp  9.067%
+Trick  6.454%
+Hex  5.318%
+Icy Wind  4.605%
+Dazzling Gleam  4.542%
+Other 16.636%
++
+Teammates
+Lopunny 24.354%
+Garchomp 18.166%
+Bisharp 13.970%
+Thundurus 11.332%
+Azumarill 10.505%
+Conkeldurr 5.500%
+Manectric 4.551%
+Altaria 2.473%
+Meloetta 2.473%
+Dragonite 2.299%
+Gardevoir 2.127%
+Ferrothorn 2.014%
++
++
++
+Dragonite
++
++
+Multiscale 99.280%
+Inner Focus  0.720%
++
+Lum Berry 41.257%
+Weakness Policy 27.447%
+Choice Band 25.966%
+Leftovers  3.485%
+Other  1.845%
++
+Adamant:0/252/0/0/4/252 61.579%
+Adamant:0/252/4/0/0/252 12.084%
+Adamant:252/252/0/0/4/0  4.385%
+Adamant:4/252/0/0/0/252  3.888%
+Jolly:0/252/0/0/4/252  3.316%
+Adamant:0/252/0/0/0/252  2.685%
+Other 12.062%
++
+Extreme Speed 85.888%
+Earthquake 75.974%
+Dragon Dance 70.976%
+Outrage 55.967%
+Dragon Claw 41.182%
+Fire Punch 34.861%
+Ice Punch  8.717%
+Iron Head  8.479%
+Other 17.956%
++
+Teammates
+Pinsir 40.590%
+Excadrill 25.044%
+Azelf 24.622%
+Empoleon 21.589%
+Talonflame 16.935%
+Manaphy 16.551%
+Alakazam 14.702%
+Kyurem-Black 13.492%
+Gyarados 6.021%
+Staraptor 3.555%
+Charizard 3.210%
+Sceptile 2.959%
++
++
++
+Jirachi
++
++
+Serene Grace 100.000%
++
+Choice Scarf 47.198%
+Leftovers 45.097%
+Expert Belt  6.125%
+Other  1.580%
++
+Jolly:0/252/0/0/4/252 30.796%
+Careful:252/0/0/0/224/32 20.931%
+Jolly:0/252/4/0/0/252  7.256%
+Careful:252/0/0/0/176/80  3.144%
+Adamant:24/252/0/0/4/228  3.083%
+Modest:40/0/0/252/0/216  2.519%
+Other 32.271%
++
+Iron Head 96.082%
+U-turn 73.974%
+Healing Wish 50.520%
+Stealth Rock 30.928%
+Wish 22.665%
+Fire Punch 22.540%
+Zen Headbutt 16.420%
+Trick 13.567%
+Body Slam 13.143%
+Ice Punch  9.516%
+Protect  7.132%
+Icy Wind  6.355%
+Substitute  5.949%
+Toxic  4.976%
+Thunder Wave  4.733%
+Thunderbolt  3.150%
+Other 18.350%
++
+Teammates
+Landorus-Therian 14.110%
+Gyarados 10.874%
+Hydreigon 8.273%
+Azumarill 7.879%
+Diancie 6.100%
+Latios 5.950%
+Magnezone 5.914%
+Conkeldurr 5.290%
+Manectric 5.215%
+Rotom-Wash 3.812%
+Zapdos 3.318%
+Diggersby 2.984%
++
++
++
+Politoed
++
++
+Drizzle 99.921%
+Water Absorb  0.058%
+Damp  0.021%
++
+Damp Rock 98.303%
+Other  1.697%
++
+Bold:248/0/136/0/12/112 53.616%
+Calm:248/0/0/0/164/96  6.435%
+Bold:248/0/216/0/0/44  6.429%
+Bold:248/0/252/0/8/0  6.188%
+Calm:252/0/0/4/252/0  3.364%
+Bold:248/0/164/0/0/96  2.399%
+Other 21.569%
++
+Scald 98.291%
+Encore 93.972%
+Rest 91.693%
+Toxic 62.493%
+Hypnosis 24.987%
+Perish Song  9.096%
+Other 19.469%
++
+Teammates
+Kingdra 81.331%
+Kabutops 77.515%
+Tornadus-Therian 62.879%
+Scizor 44.084%
+Garchomp 27.009%
+Swampert 23.399%
+Ferrothorn 9.086%
+Omastar 4.112%
+Forretress 3.308%
+Heracross 2.646%
+Toxicroak 2.364%
+Lucario 1.260%
++
++
++
+Serperior
++
++
+Contrary 99.770%
+Overgrow  0.230%
++
+Leftovers 51.204%
+Life Orb 24.708%
+Miracle Seed 11.635%
+Assault Vest  3.958%
+Coba Berry  1.473%
+Lum Berry  1.347%
+Meadow Plate  1.289%
+Other  4.385%
++
+Timid:0/0/0/252/4/252 66.751%
+Timid:0/0/4/252/0/252 10.878%
+Timid:16/0/0/248/0/244  5.703%
+Timid:4/0/0/252/0/252  5.441%
+Timid:56/0/0/200/0/252  1.420%
+Timid:0/0/0/252/0/252  1.180%
+Other  8.626%
++
+Leaf Storm 99.934%
+Hidden Power Fire 67.765%
+Dragon Pulse 65.771%
+Glare 32.543%
+Substitute 30.921%
+Giga Drain 27.983%
+Leech Seed 18.260%
+Taunt 16.455%
+Hidden Power Rock 15.771%
+Hidden Power Ground 11.445%
+Other 13.152%
++
+Teammates
+Excadrill 12.021%
+Vaporeon 11.496%
+Volcarona 10.964%
+Charizard 7.651%
+Landorus-Therian 6.167%
+Lopunny 5.888%
+Sableye 5.859%
+Azelf 4.255%
+Mandibuzz 3.265%
+Heatran 3.166%
+Azumarill 2.928%
+Dragalge 2.661%
++
++
++
+Pinsir
++
++
+Hyper Cutter 87.229%
+Mold Breaker  6.904%
+Moxie  5.866%
++
+Pinsirite 99.947%
+Other  0.053%
++
+Jolly:0/252/4/0/0/252 34.934%
+Adamant:0/252/4/0/0/252 33.406%
+Jolly:0/252/0/0/4/252 14.419%
+Jolly:4/252/0/0/0/252  6.342%
+Adamant:0/252/0/0/8/248  2.444%
+Adamant:0/252/0/0/0/252  2.403%
+Other  6.052%
++
+Swords Dance 97.722%
+Quick Attack 96.062%
+Close Combat 80.679%
+Frustration 73.483%
+Return 25.576%
+Earthquake 18.313%
+Other  8.166%
++
+Teammates
+Dragonite 46.581%
+Azelf 26.897%
+Excadrill 26.114%
+Kyurem-Black 22.278%
+Empoleon 21.591%
+Manaphy 20.652%
+Talonflame 20.390%
+Alakazam 16.210%
+Garchomp 5.271%
+Starmie 2.318%
+Klefki 2.043%
+Weavile 1.122%
++
++
++
+Medicham
++
++
+Pure Power 99.728%
+Telepathy  0.272%
++
+Medichamite 98.755%
+Other  1.245%
++
+Adamant:0/252/0/0/4/252 60.519%
+Jolly:0/252/0/0/4/252 18.412%
+Adamant:0/252/4/0/0/252  6.617%
+Jolly:0/252/4/0/0/252  3.351%
+Adamant:4/252/0/0/0/252  1.956%
+Adamant:16/240/0/0/0/252  1.910%
+Other  7.235%
++
+High Jump Kick 96.533%
+Fake Out 95.818%
+Bullet Punch 78.943%
+Ice Punch 61.998%
+Zen Headbutt 38.857%
+Psycho Cut 12.050%
+Other 15.801%
++
+Teammates
+Rotom-Wash 43.039%
+Tornadus-Therian 37.159%
+Bisharp 35.886%
+Garchomp 30.928%
+Keldeo 27.714%
+Sylveon 3.853%
+Klefki 2.872%
+Thundurus 1.470%
+Weavile 0.910%
++
++
++
+Manectric
++
++
+Lightning Rod 84.057%
+Static 15.916%
+Minus  0.027%
++
+Manectite 99.728%
+Other  0.272%
++
+Timid:0/0/0/252/4/252 72.806%
+Timid:0/0/4/252/0/252 19.639%
+Timid:4/0/0/252/0/252  3.167%
+Other  4.388%
++
+Volt Switch 99.578%
+Hidden Power Ice 99.091%
+Thunderbolt 95.660%
+Flamethrower 77.279%
+Overheat 22.644%
+Other  5.749%
++
+Teammates
+Tornadus-Therian 14.527%
+Landorus-Therian 12.837%
+Hoopa-Unbound 12.704%
+Ferrothorn 7.870%
+Azumarill 7.779%
+Conkeldurr 7.314%
+Jirachi 6.001%
+Weavile 5.841%
+Gengar 5.502%
+Garchomp 5.303%
+Breloom 5.099%
+Wobbuffet 4.878%
++
++
++
+Klefki
++
++
+Prankster 99.991%
+Magician  0.009%
++
+Leftovers 82.586%
+Light Clay 12.022%
+Sitrus Berry  2.157%
+Other  3.235%
++
+Calm:252/0/4/0/252/0 15.089%
+Bold:248/0/252/0/8/0 11.138%
+Careful:252/0/4/0/252/0  9.787%
+Calm:252/0/0/4/252/0  7.384%
+Calm:248/0/8/0/252/0  5.936%
+Impish:252/4/252/0/0/0  5.508%
+Other 45.159%
++
+Thunder Wave 98.790%
+Spikes 87.084%
+Magnet Rise 58.744%
+Foul Play 33.090%
+Play Rough 25.407%
+Flash Cannon 21.421%
+Dazzling Gleam 19.729%
+Light Screen 14.872%
+Reflect 14.644%
+Toxic 11.097%
+Other 15.122%
++
+Teammates
+Landorus-Therian 13.106%
+Starmie 10.604%
+Hoopa-Unbound 10.110%
+Gyarados 6.832%
+Garchomp 5.444%
+Alakazam 5.431%
+Charizard 5.400%
+Gothitelle 4.259%
+Manectric 4.236%
+Bisharp 3.970%
+Latios 3.620%
+Dragonite 3.550%
++
++
++
+Kingdra
++
++
+Swift Swim 99.346%
+Sniper  0.653%
+Damp  0.001%
++
+Choice Specs 92.265%
+Life Orb  6.281%
+Other  1.454%
++
+Modest:0/0/0/252/4/252 74.546%
+Modest:24/0/0/252/0/232  7.021%
+Modest:0/0/4/252/0/252  4.085%
+Modest:0/0/0/252/20/236  2.346%
+Modest:64/0/0/252/0/192  2.174%
+Modest:28/0/0/252/0/228  1.931%
+Other  7.897%
++
+Hydro Pump 97.163%
+Ice Beam 83.217%
+Surf 74.597%
+Dragon Pulse 71.814%
+Draco Meteor 40.115%
+Scald 23.709%
+Other  9.384%
++
+Teammates
+Politoed 92.000%
+Kabutops 82.627%
+Tornadus-Therian 64.586%
+Scizor 49.473%
+Garchomp 33.935%
+Swampert 17.114%
+Ferrothorn 4.632%
+Forretress 3.733%
+Heracross 2.737%
+Omastar 2.323%
+Lucario 1.479%
+Mamoswine 0.540%
++
++
++
+Gothitelle
++
++
+Shadow Tag 99.666%
+Competitive  0.305%
+Frisk  0.029%
++
+Choice Scarf 82.677%
+Choice Specs 16.223%
+Other  1.100%
++
+Timid:128/0/0/128/0/252 19.058%
+Timid:80/0/0/176/0/252 10.814%
+Modest:0/0/4/252/0/252  7.963%
+Timid:250/0/0/0/8/252  6.227%
+Timid:252/0/0/4/0/252  4.967%
+Timid:0/0/0/252/4/252  4.501%
+Other 46.470%
++
+Trick 98.748%
+Psychic 85.745%
+Rest 77.920%
+Thunder Wave 41.772%
+Calm Mind 25.544%
+Hidden Power Fire 18.645%
+Psyshock 14.115%
+Energy Ball 12.974%
+Mirror Coat  8.761%
+Other 15.777%
++
+Teammates
+Quagsire 42.699%
+Sableye 41.977%
+Chansey 40.691%
+Skarmory 37.386%
+Amoonguss 25.769%
+Dugtrio 9.266%
+Ditto 7.049%
+Cresselia 6.989%
+Shedinja 5.907%
+Gyarados 5.224%
+Beedrill 4.811%
+Klefki 4.196%
++
++
++
+Kabutops
++
++
+Swift Swim 99.942%
+Battle Armor  0.035%
+Weak Armor  0.023%
++
+Life Orb 98.963%
+Other  1.037%
++
+Adamant:0/252/0/0/4/252 79.567%
+Adamant:0/252/4/0/0/252 13.717%
+Adamant:4/252/0/0/0/252  3.374%
+Other  3.342%
++
+Waterfall 99.693%
+Stone Edge 99.298%
+Aqua Jet 95.432%
+Rapid Spin 57.957%
+Low Kick 23.843%
+Swords Dance 17.147%
+Other  6.630%
++
+Teammates
+Politoed 92.672%
+Kingdra 87.329%
+Tornadus-Therian 67.829%
+Scizor 51.335%
+Garchomp 35.784%
+Swampert 16.101%
+Ferrothorn 5.555%
+Heracross 2.480%
+Forretress 2.131%
+Lucario 1.165%
+Mamoswine 0.594%
++
++
++
+Gyarados
++
++
+Intimidate 93.422%
+Moxie  6.578%
++
+Gyaradosite 61.795%
+Leftovers 26.146%
+Lum Berry  6.827%
+Life Orb  1.228%
+Other  4.002%
++
+Jolly:0/252/0/0/4/252 23.274%
+Jolly:0/252/4/0/0/252 21.985%
+Adamant:0/252/0/0/4/252 15.013%
+Jolly:72/240/0/0/0/196  3.823%
+Adamant:0/252/4/0/0/252  2.655%
+Jolly:88/220/4/0/0/196  2.529%
+Other 30.721%
++
+Waterfall 98.020%
+Dragon Dance 95.277%
+Crunch 55.125%
+Substitute 40.244%
+Earthquake 32.077%
+Bounce 27.341%
+Taunt 20.051%
+Ice Fang 11.581%
+Rest  4.277%
+Other 16.006%
++
+Teammates
+Jirachi 14.316%
+Excadrill 12.740%
+Latias 11.685%
+Landorus-Therian 10.683%
+Dragonite 8.034%
+Klefki 7.486%
+Breloom 7.008%
+Magnezone 6.709%
+Virizion 6.568%
+Gothitelle 5.789%
+Diggersby 5.458%
+Kyurem-Black 4.630%
++
++
++
+Amoonguss
++
++
+Regenerator 99.769%
+Effect Spore  0.231%
++
+Black Sludge 93.734%
+Leftovers  2.901%
+Other  3.366%
++
+Bold:248/0/192/0/68/0 11.568%
+Bold:252/0/248/0/0/8  9.723%
+Bold:248/0/152/0/96/12  9.484%
+Calm:252/0/136/0/120/0  8.827%
+Bold:248/0/252/0/8/0  5.853%
+Bold:252/0/252/0/4/0  4.795%
+Other 49.748%
++
+Giga Drain 99.214%
+Spore 96.989%
+Clear Smog 73.612%
+Sludge Bomb 64.809%
+Hidden Power Fire 43.340%
+Foul Play 16.082%
+Other  5.954%
++
+Teammates
+Skarmory 33.184%
+Quagsire 31.441%
+Sableye 31.242%
+Chansey 30.168%
+Gothitelle 28.287%
+Tyranitar 21.424%
+Lopunny 19.192%
+Rotom-Wash 18.319%
+Excadrill 16.143%
+Togekiss 1.957%
+Terrakion 1.597%
+Donphan 1.323%
++
++
++
+Togekiss
++
++
+Serene Grace 99.321%
+Hustle  0.426%
+Super Luck  0.253%
++
+Leftovers 48.728%
+Choice Scarf 23.933%
+Shed Shell 14.506%
+Metronome  7.869%
+Other  4.964%
++
+Timid:0/0/0/252/4/252 15.525%
+Timid:0/0/4/252/0/252  9.707%
+Bold:232/0/252/0/0/24  8.762%
+Bold:248/0/252/0/0/8  8.250%
+Timid:64/0/12/174/8/252  7.751%
+Timid:248/0/80/4/0/176  4.964%
+Other 45.041%
++
+Air Slash 99.374%
+Roost 72.716%
+Heal Bell 56.921%
+Defog 38.275%
+Nasty Plot 35.136%
+Dazzling Gleam 25.342%
+Trick 22.619%
+Fire Blast 19.916%
+Thunder Wave 11.513%
+Other 18.189%
++
+Teammates
+Seismitoad 26.545%
+Shedinja 25.294%
+Dugtrio 25.141%
+Sableye 21.525%
+Manaphy 10.329%
+Ditto 7.424%
+Latias 6.329%
+Ferrothorn 6.129%
+Tyranitar 6.047%
+Manectric 5.001%
+Kyurem-Black 4.787%
+Gothitelle 4.655%
++
++
++
+Altaria
++
++
+Natural Cure 73.472%
+Cloud Nine 26.528%
++
+Altarianite 99.887%
+Other  0.113%
++
+Adamant:0/252/0/0/4/252 11.852%
+Impish:248/0/136/0/96/28  9.274%
+Jolly:0/252/0/0/4/252  8.635%
+Adamant:248/16/0/0/4/240  6.420%
+Timid:4/0/0/252/0/252  6.006%
+Adamant:0/252/4/0/0/252  4.574%
+Other 53.240%
++
+Roost 94.463%
+Dragon Dance 80.739%
+Return 59.237%
+Earthquake 42.457%
+Heal Bell 37.519%
+Fire Blast 18.891%
+Frustration 18.677%
+Hyper Voice 15.609%
+Cotton Guard  8.889%
+Refresh  7.667%
+Other 15.852%
++
+Teammates
+Magnezone 18.264%
+Excadrill 10.680%
+Ferrothorn 8.446%
+Hippowdon 7.510%
+Gliscor 7.456%
+Tyranitar 6.870%
+Suicune 6.159%
+Chesnaught 4.554%
+Meloetta 3.838%
+Heatran 3.834%
+Gengar 3.720%
+Hoopa-Unbound 2.840%
++
++
++
+Quagsire
++
++
+Unaware 99.515%
+Water Absorb  0.459%
+Damp  0.025%
++
+Leftovers 98.529%
+Other  1.471%
++
+Relaxed:248/0/252/0/8/0 27.811%
+Relaxed:252/0/252/0/4/0 22.942%
+Impish:252/4/252/0/0/0 12.622%
+Relaxed:248/0/224/0/36/0  4.871%
+Relaxed:252/8/216/0/32/0  4.288%
+Bold:252/0/252/0/4/0  4.282%
+Other 23.184%
++
+Recover 99.470%
+Scald 97.448%
+Toxic 92.444%
+Earthquake 91.236%
+Other 19.403%
++
+Teammates
+Chansey 76.147%
+Sableye 63.657%
+Skarmory 62.950%
+Gothitelle 56.768%
+Amoonguss 38.078%
+Cresselia 9.634%
+Suicune 6.916%
+Sylveon 4.007%
+Tangrowth 3.197%
+Whimsicott 1.881%
+Alomomola 0.656%
+Zapdos 0.643%
++
++
++
+Celebi
++
++
+Natural Cure 100.000%
++
+Leftovers 89.985%
+Weakness Policy  3.502%
+Life Orb  3.448%
+Other  3.065%
++
+Careful:248/0/120/0/124/16  8.374%
+Bold:248/0/140/0/100/20  6.870%
+Bold:252/0/148/0/0/108  6.239%
+Bold:252/0/156/0/84/16  5.968%
+Calm:252/0/0/0/220/36  4.981%
+Bold:248/0/212/48/0/0  2.623%
+Other 64.944%
++
+Recover 84.072%
+Giga Drain 57.073%
+Baton Pass 48.923%
+Stealth Rock 27.280%
+Nasty Plot 22.420%
+Thunder Wave 21.715%
+Leaf Storm 14.770%
+Seed Bomb 14.667%
+Swords Dance 14.561%
+Healing Wish 13.594%
+Earth Power 11.215%
+Calm Mind  9.805%
+U-turn  9.777%
+Psychic  9.437%
+Energy Ball  9.398%
+Substitute  7.128%
+Hidden Power Fire  6.406%
+Other 17.760%
++
+Teammates
+Keldeo 23.343%
+Tyranitar 14.165%
+Heatran 9.557%
+Donphan 6.873%
+Landorus-Therian 6.617%
+Excadrill 5.616%
+Diancie 3.554%
+Lopunny 3.073%
+Ampharos 2.804%
+Skarmory 2.695%
+Heracross 2.097%
+Manectric 2.003%
++
++
++
+Mew
++
++
+Synchronize 100.000%
++
+Leftovers 89.183%
+Expert Belt  3.420%
+Colbur Berry  2.542%
+Other  4.855%
++
+Careful:240/0/156/0/80/32 12.076%
+Careful:248/0/0/0/136/124  6.509%
+Careful:252/0/0/0/104/152  5.385%
+Careful:252/4/0/0/252/0  4.849%
+Bold:252/0/220/0/0/36  4.303%
+Careful:252/0/0/0/224/32  4.075%
+Other 62.802%
++
+Will-O-Wisp 81.539%
+Knock Off 59.959%
+Taunt 56.908%
+Roost 50.556%
+Defog 35.213%
+Soft-Boiled 35.040%
+Stealth Rock 11.196%
+Psychic  8.397%
+Ice Beam  7.052%
+Psyshock  6.927%
+Heal Bell  3.998%
+U-turn  3.573%
+Fire Blast  2.392%
+Roar  2.301%
+Baton Pass  2.161%
+Energy Ball  2.142%
+Gunk Shot  2.061%
+Flamethrower  1.976%
+Aura Sphere  1.720%
+Earthquake  1.666%
+Drain Punch  1.646%
+Low Kick  1.589%
+Other 19.988%
++
+Teammates
+Ferrothorn 18.608%
+Azumarill 13.222%
+Gliscor 12.349%
+Heatran 8.681%
+Sableye 6.854%
+Bronzong 5.724%
+Aerodactyl 4.852%
+Diancie 4.009%
+Sylveon 3.516%
+Kyurem-Black 3.109%
+Landorus-Therian 2.860%
+Lopunny 2.617%
++
++
++
+Azelf
++
++
+Levitate 100.000%
++
+Focus Sash 97.333%
+Other  2.667%
++
+Naive:0/252/0/6/0/252 28.689%
+Jolly:0/252/0/0/0/252 15.003%
+Naive:144/0/112/0/0/252 14.998%
+Jolly:144/0/112/0/0/252  7.863%
+Jolly:0/252/0/0/4/252  3.603%
+Jolly:252/4/0/0/0/252  3.210%
+Other 26.634%
++
+Stealth Rock 98.108%
+Taunt 95.691%
+Explosion 94.729%
+Skill Swap 63.427%
+Fire Blast 23.805%
+Dazzling Gleam  3.367%
+Flamethrower  3.074%
+Other 17.799%
++
+Teammates
+Dragonite 51.777%
+Manaphy 50.991%
+Pinsir 49.284%
+Talonflame 41.649%
+Excadrill 40.235%
+Wobbuffet 9.948%
+Serperior 8.035%
+Weavile 7.412%
+Breloom 6.426%
+Manectric 4.347%
+Lopunny 3.176%
+Azumarill 2.411%
++
++
++
+Zapdos
++
++
+Pressure 100.000%
++
+Leftovers 82.595%
+Rocky Helmet  8.645%
+Life Orb  5.636%
+Other  3.124%
++
+Bold:248/0/176/68/0/16 20.568%
+Bold:252/0/200/0/0/56  7.155%
+Timid:0/0/0/252/4/252  5.962%
+Bold:192/0/252/0/44/20  5.569%
+Calm:248/0/64/0/180/16  4.591%
+Bold:248/0/244/0/0/16  3.666%
+Other 52.489%
++
+Roost 91.334%
+Defog 81.403%
+Heat Wave 74.839%
+Thunderbolt 39.165%
+Hidden Power Ice 35.222%
+Volt Switch 33.669%
+Discharge 27.448%
+Other 16.921%
++
+Teammates
+Clefable 15.562%
+Slowbro 14.105%
+Charizard 8.098%
+Jirachi 7.114%
+Shaymin 4.759%
+Hippowdon 4.226%
+Venusaur 2.996%
+Metagross 2.943%
+Manectric 2.645%
+Gastrodon 2.611%
+Victini 2.520%
+Gogoat 2.319%
++
++
++
+Conkeldurr
++
++
+Guts 58.756%
+Sheer Force 35.084%
+Iron Fist  6.160%
++
+Assault Vest 56.547%
+Life Orb 36.082%
+Leftovers  3.635%
+Other  3.736%
++
+Adamant:0/252/4/0/0/252 22.477%
+Adamant:248/252/0/0/8/0 15.679%
+Adamant:0/252/0/0/236/20 11.557%
+Adamant:252/252/0/0/4/0  4.669%
+Adamant:56/252/0/0/200/0  4.317%
+Adamant:48/252/0/0/0/208  3.291%
+Other 38.011%
++
+Mach Punch 89.959%
+Drain Punch 87.110%
+Ice Punch 85.933%
+Knock Off 52.781%
+Poison Jab 47.515%
+Fire Punch 11.146%
+Thunder Punch 10.694%
+Other 14.862%
++
+Teammates
+Manectric 14.900%
+Gengar 13.607%
+Jirachi 12.461%
+Metagross 9.767%
+Aerodactyl 7.372%
+Empoleon 5.335%
+Gyarados 3.434%
+Latios 2.755%
+Magnezone 2.582%
+Entei 2.520%
+Tyrantrum 2.289%
+Zapdos 2.129%
++
++
++
+Sylveon
++
++
+Pixilate 99.267%
+Cute Charm  0.733%
++
+Leftovers 58.770%
+Choice Specs 35.558%
+Pixie Plate  2.638%
+Other  3.034%
++
+Modest:240/0/0/252/0/16 16.666%
+Calm:252/0/0/4/252/0 16.384%
+Modest:248/0/0/252/8/0  7.912%
+Calm:252/0/4/0/252/0  6.989%
+Bold:252/0/252/0/4/0  6.237%
+Bold:252/0/220/0/36/0  4.113%
+Other 41.698%
++
+Hyper Voice 98.583%
+Wish 56.076%
+Heal Bell 51.434%
+Protect 45.049%
+Psyshock 35.374%
+Baton Pass 29.635%
+Hidden Power Fire 25.662%
+Shadow Ball 23.653%
+Hidden Power Ground 10.961%
+Calm Mind  7.241%
+Other 16.331%
++
+Teammates
+Rotom-Wash 15.870%
+Landorus-Therian 10.102%
+Medicham 8.168%
+Slowbro 7.874%
+Scizor 7.317%
+Quagsire 6.093%
+Mew 4.470%
+Gothitelle 4.394%
+Hawlucha 3.084%
+Manectric 3.002%
+Breloom 2.687%
+Entei 2.590%
++
++
++
+Suicune
++
++
+Pressure 100.000%
++
+Leftovers 99.173%
+Other  0.827%
++
+Bold:252/0/252/0/4/0 37.377%
+Calm:252/0/0/0/252/4  9.941%
+Bold:252/0/252/0/0/4  9.786%
+Bold:252/0/252/4/0/0  9.477%
+Bold:248/0/244/0/0/16  7.838%
+Bold:248/0/252/0/0/8  5.085%
+Other 20.497%
++
+Scald 99.640%
+Calm Mind 98.547%
+Rest 97.667%
+Sleep Talk 75.249%
+Roar 22.114%
+Other  6.782%
++
+Teammates
+Chansey 31.928%
+Clefable 24.652%
+Gliscor 21.453%
+Sableye 13.981%
+Ditto 12.768%
+Quagsire 11.392%
+Altaria 11.257%
+Scizor 10.968%
+Chesnaught 8.988%
+Hippowdon 6.688%
+Excadrill 5.121%
+Gothitelle 3.464%
++
++
++
+Volcarona
++
++
+Flame Body 98.183%
+Swarm  1.817%
++
+Leftovers 54.628%
+Lum Berry 22.155%
+Passho Berry 12.373%
+Life Orb  3.094%
+Focus Sash  1.910%
+Sitrus Berry  1.164%
+Other  4.676%
++
+Bold:224/0/220/0/0/64 22.354%
+Timid:72/0/0/252/0/184 16.272%
+Modest:0/0/0/252/4/252  9.238%
+Bold:248/0/196/0/0/64  9.204%
+Timid:0/0/0/252/4/252  7.000%
+Bold:232/0/216/0/0/60  2.563%
+Other 33.370%
++
+Quiver Dance 98.714%
+Giga Drain 81.638%
+Fiery Dance 69.298%
+Roost 48.281%
+Bug Buzz 46.192%
+Fire Blast 27.294%
+Hidden Power Ground 17.636%
+Other 10.947%
++
+Teammates
+Sableye 33.898%
+Vaporeon 33.529%
+Serperior 28.920%
+Excadrill 26.346%
+Landorus-Therian 24.345%
+Diancie 7.513%
+Starmie 2.723%
+Gastrodon 2.427%
+Altaria 2.120%
+Cobalion 1.724%
+Dugtrio 1.588%
+Tentacruel 1.433%
++
++
++
+Empoleon
++
++
+Torrent 99.411%
+Defiant  0.589%
++
+Shuca Berry 61.614%
+Leftovers 33.657%
+Other  4.729%
++
+Modest:240/0/0/252/4/12 29.766%
+Modest:252/0/0/252/4/0 29.424%
+Bold:252/0/252/4/0/0  8.483%
+Calm:248/0/8/0/252/0  4.808%
+Bold:252/0/252/0/4/0  3.766%
+Bold:252/0/252/0/0/4  3.106%
+Other 20.646%
++
+Scald 96.199%
+Defog 94.075%
+Flash Cannon 65.104%
+Hidden Power Fire 62.302%
+Stealth Rock 27.172%
+Roar 23.655%
+Protect  8.489%
+Ice Beam  5.603%
+Other 17.402%
++
+Teammates
+Dragonite 65.992%
+Pinsir 57.511%
+Kyurem-Black 55.319%
+Alakazam 53.500%
+Garchomp 31.134%
+Magnezone 9.584%
+Meloetta 8.054%
+Conkeldurr 6.836%
+Altaria 5.439%
+Gengar 3.576%
+Mamoswine 2.703%
+Aerodactyl 2.275%
++
++
++
+Heracross
++
++
+Guts 46.805%
+Moxie 46.465%
+Swarm  6.730%
++
+Heracronite 89.960%
+Choice Scarf  5.866%
+Other  4.174%
++
+Jolly:0/252/4/0/0/252 33.333%
+Jolly:0/252/0/0/4/252 13.776%
+Jolly:4/252/0/0/0/252  6.346%
+Adamant:0/252/4/0/0/252  4.908%
+Jolly:16/240/0/0/0/252  3.872%
+Adamant:0/252/0/0/4/252  3.572%
+Other 34.193%
++
+Close Combat 97.846%
+Rock Blast 88.134%
+Pin Missile 86.708%
+Swords Dance 50.243%
+Bullet Seed 27.971%
+Substitute 17.176%
+Megahorn 10.622%
+Knock Off  6.159%
+Other 15.141%
++
+Teammates
+Politoed 8.453%
+Kingdra 7.725%
+Kabutops 6.621%
+Heatran 5.897%
+Thundurus 5.824%
+Raikou 5.000%
+Celebi 4.186%
+Latias 3.323%
+Jirachi 3.258%
+Manaphy 3.212%
+Serperior 3.108%
+Ferrothorn 2.804%
++
++
++
+Dugtrio
++
++
+Arena Trap 99.903%
+Sand Force  0.052%
+Sand Veil  0.044%
++
+Focus Sash 98.588%
+Other  1.412%
++
+Hasty:4/252/0/0/0/252 42.723%
+Naive:6/252/0/0/0/252 17.960%
+Jolly:0/252/0/0/4/252 15.996%
+Naive:0/252/0/0/0/252  6.713%
+Jolly:4/252/0/0/0/252  4.282%
+Jolly:0/252/4/0/0/252  3.249%
+Other  9.078%
++
+Earthquake 99.971%
+Reversal 92.242%
+Stone Edge 66.226%
+Toxic 53.102%
+Sucker Punch 25.392%
+Rock Slide 22.716%
+Stealth Rock 16.857%
+Memento 11.209%
+Other 12.286%
++
+Teammates
+Shedinja 67.380%
+Sableye 65.909%
+Togekiss 61.355%
+Seismitoad 43.853%
+Talonflame 39.139%
+Gothitelle 26.629%
+Ditto 18.751%
+Blissey 3.043%
+Wobbuffet 2.673%
+Pidgeot 2.616%
+Volcarona 1.852%
+Vaporeon 1.497%
++
++
++
+Hydreigon
++
++
+Levitate 100.000%
++
+Life Orb 69.258%
+Choice Scarf 24.962%
+Choice Specs  2.304%
+Other  3.476%
++
+Modest:0/0/0/252/4/252 36.180%
+Timid:0/0/0/252/4/252 22.669%
+Modest:0/0/4/252/0/252 22.157%
+Mild:0/4/0/252/0/252  2.670%
+Rash:4/0/0/252/0/252  2.023%
+Hasty:0/4/0/252/0/252  1.875%
+Other 12.427%
++
+Dark Pulse 99.252%
+Draco Meteor 97.283%
+Flash Cannon 63.945%
+Roost 44.531%
+Fire Blast 35.714%
+U-turn 21.076%
+Earth Power 15.060%
+Flamethrower  8.148%
+Other 14.992%
++
+Teammates
+Landorus-Therian 42.834%
+Azumarill 40.814%
+Jirachi 29.067%
+Diancie 27.692%
+Magnezone 26.277%
+Metagross 18.719%
+Thundurus 10.280%
+Celebi 2.819%
+Sceptile 2.033%
+Slowking 1.934%
+Heracross 1.762%
+Klefki 1.349%
++
++
++
+Swampert
++
++
+Damp 66.781%
+Torrent 33.219%
++
+Swampertite 92.728%
+Leftovers  5.950%
+Other  1.322%
++
+Adamant:32/252/0/0/0/224 23.142%
+Adamant:0/252/4/0/0/252 22.447%
+Adamant:4/252/0/0/0/252  8.570%
+Adamant:148/252/0/0/0/108  7.566%
+Adamant:0/252/0/0/4/252  7.334%
+Adamant:104/252/0/0/0/152  7.111%
+Other 23.831%
++
+Earthquake 96.668%
+Waterfall 93.151%
+Ice Punch 80.932%
+Power-Up Punch 34.017%
+Superpower 29.965%
+Rain Dance 14.496%
+Stealth Rock  8.188%
+Low Kick  5.403%
+Protect  4.539%
+Scald  4.264%
+Rest  4.216%
+Substitute  4.092%
+Sleep Talk  4.017%
+Other 16.051%
++
+Teammates
+Politoed 75.874%
+Kingdra 49.047%
+Tornadus-Therian 48.794%
+Kabutops 43.657%
+Ferrothorn 38.096%
+Forretress 14.696%
+Omastar 10.875%
+Toxicroak 7.861%
+Gothitelle 5.856%
+Ludicolo 2.815%
+Tornadus 1.989%
+Heliolisk 1.155%
++
++
++
+Seismitoad
++
++
+Water Absorb 96.622%
+Swift Swim  3.327%
+Poison Touch  0.051%
++
+Leftovers 96.263%
+Other  3.737%
++
+Sassy:248/0/8/0/252/0 20.255%
+Sassy:200/0/56/0/252/0 19.837%
+Relaxed:252/4/252/0/0/0 16.363%
+Impish:252/4/252/0/0/0  9.026%
+Bold:252/0/244/0/0/12  8.401%
+Sassy:248/0/0/0/248/12  6.921%
+Other 19.196%
++
+Scald 96.655%
+Stealth Rock 94.827%
+Knock Off 59.706%
+Rest 56.729%
+Earthquake 40.779%
+Toxic 31.085%
+Earth Power  5.686%
+Other 14.533%
++
+Teammates
+Togekiss 71.686%
+Dugtrio 48.509%
+Shedinja 48.474%
+Sableye 42.201%
+Talonflame 38.101%
+Kyurem-Black 16.566%
+Scizor 16.552%
+Manaphy 11.308%
+Hoopa-Unbound 6.495%
+Zapdos 1.877%
+Porygon-Z 1.130%
+Victini 0.942%
++
++
++
+Mandibuzz
++
++
+Overcoat 96.280%
+Big Pecks  3.649%
+Weak Armor  0.071%
++
+Leftovers 66.341%
+Rocky Helmet 33.237%
+Other  0.422%
++
+Impish:252/4/252/0/0/0 30.961%
+Impish:248/0/204/0/0/56 14.761%
+Bold:252/0/252/0/4/0  8.293%
+Bold:248/0/252/0/8/0  5.642%
+Impish:252/0/252/0/4/0  4.755%
+Impish:248/0/136/0/108/16  4.107%
+Other 31.480%
++
+Roost 99.672%
+Defog 95.371%
+Foul Play 66.863%
+Knock Off 63.043%
+Whirlwind 33.498%
+Taunt 18.112%
+Toxic 14.855%
+Other  8.586%
++
+Teammates
+Charizard 28.381%
+Rotom-Wash 21.464%
+Thundurus 21.424%
+Scizor 18.716%
+Excadrill 16.160%
+Slowbro 16.017%
+Hippowdon 12.811%
+Serperior 11.663%
+Clefable 10.772%
+Venusaur 4.471%
+Chansey 3.412%
+Sylveon 3.233%
++
++
++
+Shedinja
++
++
+Wonder Guard 100.000%
++
+Safety Goggles 59.974%
+Focus Sash 39.943%
+Other  0.083%
++
+Jolly:0/252/4/0/0/252 37.017%
+Lonely:100/252/0/0/0/156 28.213%
+Jolly:0/252/0/0/0/252 21.171%
+Lonely:4/252/0/0/0/252  2.832%
+Jolly:0/252/0/0/4/252  2.053%
+Adamant:0/252/0/0/0/252  1.797%
+Other  6.917%
++
+Will-O-Wisp 99.015%
+Protect 97.315%
+Baton Pass 96.954%
+Shadow Sneak 73.241%
+Secret Power 25.936%
+Other  7.540%
++
+Teammates
+Sableye 84.693%
+Dugtrio 79.630%
+Togekiss 72.950%
+Seismitoad 51.792%
+Talonflame 37.169%
+Ditto 22.660%
+Gothitelle 20.048%
+Alomomola 11.420%
+Chansey 5.141%
+Vaporeon 1.906%
+Volcarona 0.929%
+Mew 0.609%
++
++
++
+Chesnaught
++
++
+Bulletproof 97.785%
+Overgrow  2.215%
++
+Leftovers 93.722%
+Salac Berry  3.661%
+Other  2.617%
++
+Impish:248/0/116/0/0/144 59.803%
+Impish:252/4/252/0/0/0 19.676%
+Impish:252/0/252/0/4/0  6.140%
+Jolly:12/244/0/0/0/252  2.123%
+Impish:248/8/252/0/0/0  1.670%
+Impish:248/0/252/0/0/8  1.074%
+Other  9.514%
++
+Drain Punch 97.935%
+Spikes 90.776%
+Synthesis 63.876%
+Wood Hammer 63.713%
+Leech Seed 32.253%
+Spiky Shield 28.280%
+Seed Bomb  9.372%
+Other 13.796%
++
+Teammates
+Clefable 64.241%
+Excadrill 64.035%
+Sableye 53.178%
+Slowbro 52.626%
+Talonflame 46.055%
+Suicune 14.266%
+Altaria 13.249%
+Heatran 4.348%
+Tentacruel 0.721%
++
++
++
+Diggersby
++
++
+Huge Power 99.620%
+Pickup  0.229%
+Cheek Pouch  0.151%
++
+Life Orb 68.610%
+Focus Sash 11.246%
+Choice Scarf  8.724%
+Choice Band  8.304%
+Other  3.117%
++
+Jolly:0/252/0/0/4/252 30.874%
+Adamant:0/252/0/0/4/252 22.741%
+Adamant:0/252/4/0/0/252 20.055%
+Jolly:0/252/4/0/0/252  9.355%
+Adamant:4/252/0/0/0/252  5.958%
+Adamant:24/252/0/0/0/232  3.260%
+Other  7.757%
++
+Earthquake 99.336%
+Quick Attack 88.902%
+Return 68.184%
+Swords Dance 45.879%
+Fire Punch 34.670%
+Frustration 28.542%
+U-turn  8.313%
+Knock Off  7.830%
+Other 18.345%
++
+Teammates
+Gyarados 17.129%
+Latias 12.539%
+Jirachi 12.322%
+Latios 8.266%
+Talonflame 8.140%
+Gardevoir 7.621%
+Azumarill 5.176%
+Thundurus 3.771%
+Golurk 2.585%
+Charizard 2.407%
+Archeops 1.787%
++
++
++
+Infernape
++
++
+Blaze 64.699%
+Iron Fist 35.301%
++
+Leftovers 48.139%
+Focus Sash 20.751%
+Life Orb 18.887%
+Choice Scarf  4.771%
+Choice Band  2.808%
+Other  4.644%
++
+Careful:252/0/0/0/204/52 27.963%
+Impish:120/4/252/0/0/132 10.642%
+Jolly:0/252/0/0/4/252  8.613%
+Naive:0/168/0/88/0/252  7.076%
+Timid:0/0/0/252/0/252  4.002%
+Timid:0/0/4/252/0/252  3.702%
+Other 38.002%
++
+Stealth Rock 64.866%
+Slack Off 49.048%
+Will-O-Wisp 48.668%
+Close Combat 45.616%
+Rock Slide 28.172%
+Fire Blast 20.002%
+Mach Punch 19.157%
+Endeavor 16.103%
+Taunt 13.578%
+Flare Blitz 12.314%
+U-turn 11.198%
+Overheat 10.755%
+Grass Knot  7.241%
+Vacuum Wave  6.956%
+Hidden Power Ice  6.762%
+Thunder Punch  6.176%
+Gunk Shot  6.161%
+Low Kick  5.707%
+Fire Punch  5.549%
+Other 15.972%
++
+Teammates
+Sableye 37.007%
+Skarmory 31.726%
+Tentacruel 30.131%
+Clefable 29.540%
+Bisharp 22.036%
+Metagross 7.874%
+Dragonite 5.666%
+Slowbro 5.316%
+Alakazam 4.324%
+Lanturn 3.686%
+Chansey 3.513%
+Celebi 2.809%
++
++
++
+Victini
++
++
+Victory Star 100.000%
++
+Choice Scarf 31.053%
+Choice Band 29.920%
+Expert Belt 14.246%
+Leftovers  8.989%
+Life Orb  7.997%
+Assault Vest  3.580%
+Other  4.215%
++
+Jolly:0/252/0/0/4/252 19.546%
+Adamant:0/252/4/0/0/252 17.495%
+Timid:0/0/0/252/4/252 13.917%
+Jolly:252/6/0/0/0/252 10.142%
+Adamant:0/252/0/0/4/252  4.733%
+Hasty:0/252/0/4/0/252  2.892%
+Other 31.276%
++
+V-create 79.614%
+Bolt Strike 75.368%
+U-turn 62.504%
+Glaciate 30.661%
+Zen Headbutt 27.559%
+Blue Flare 20.363%
+Energy Ball 17.844%
+Final Gambit 13.332%
+Grass Knot 10.119%
+Substitute  9.102%
+Will-O-Wisp  7.908%
+Trick  7.513%
+Focus Blast  6.911%
+Brick Break  6.360%
+Psychic  4.398%
+Taunt  3.400%
+Other 17.045%
++
+Teammates
+Latios 8.704%
+Entei 8.499%
+Rotom-Wash 7.571%
+Lopunny 6.707%
+Zapdos 4.661%
+Excadrill 4.655%
+Venusaur 3.848%
+Terrakion 3.636%
+Charizard 3.476%
+Pinsir 3.409%
+Sceptile 3.170%
+Dragalge 3.146%
++
++
++
+Tentacruel
++
++
+Liquid Ooze 62.382%
+Rain Dish 34.872%
+Clear Body  2.747%
++
+Black Sludge 95.055%
+Other  4.945%
++
+Timid:248/0/216/0/28/16 46.862%
+Calm:252/0/0/4/252/0  4.680%
+Relaxed:252/0/252/0/4/0  2.711%
+Calm:240/0/100/0/136/32  2.593%
+Bold:252/0/240/0/0/16  2.482%
+Calm:252/0/4/0/252/0  2.357%
+Other 38.315%
++
+Rapid Spin 98.056%
+Scald 97.661%
+Toxic Spikes 77.266%
+Haze 34.388%
+Acid Spray 31.596%
+Knock Off 22.238%
+Sludge Bomb 12.304%
+Toxic  6.965%
+Other 19.525%
++
+Teammates
+Sableye 41.183%
+Infernape 32.238%
+Skarmory 31.243%
+Clefable 29.976%
+Bisharp 16.304%
+Jolteon 3.297%
+Volcarona 2.207%
+Celebi 2.042%
+Torterra 1.622%
+Magneton 1.532%
+Altaria 1.446%
+Mamoswine 1.121%
++
++
++
+Aerodactyl
++
++
+Rock Head 50.627%
+Pressure 28.206%
+Unnerve 21.168%
++
+Aerodactylite 78.499%
+Focus Sash 20.114%
+Other  1.387%
++
+Jolly:0/252/4/0/0/252 35.156%
+Jolly:4/252/0/0/0/252 20.462%
+Jolly:0/252/0/0/4/252 20.176%
+Jolly:0/248/44/0/0/216  5.276%
+Jolly:40/152/52/0/36/228  2.278%
+Jolly:0/252/0/0/0/252  1.352%
+Other 15.300%
++
+Stone Edge 87.110%
+Aerial Ace 68.440%
+Earthquake 51.049%
+Ice Fang 45.754%
+Fire Fang 30.564%
+Taunt 24.513%
+Stealth Rock 23.198%
+Aqua Tail 17.536%
+Hone Claws 11.118%
+Roost  9.215%
+Pursuit  8.495%
+Tailwind  7.610%
+Other 15.399%
++
+Teammates
+Latios 15.655%
+Conkeldurr 14.899%
+Mew 12.237%
+Metagross 11.918%
+Weavile 10.620%
+Manaphy 10.026%
+Azumarill 9.858%
+Mamoswine 8.035%
+Gyarados 6.868%
+Dragonite 5.831%
+Clefable 5.341%
+Ferrothorn 5.156%
++
++
++
+Scolipede
++
++
+Speed Boost 99.755%
+Poison Point  0.219%
+Swarm  0.026%
++
+Focus Sash 76.584%
+Life Orb 18.884%
+Other  4.532%
++
+Jolly:0/252/0/0/0/252 45.070%
+Adamant:0/252/0/0/4/252 15.526%
+Jolly:0/252/4/0/0/252 11.232%
+Hasty:0/252/0/0/0/252  9.034%
+Jolly:0/252/0/0/4/252  5.569%
+Hasty:0/252/0/4/0/252  2.813%
+Other 10.756%
++
+Megahorn 83.413%
+Spikes 76.049%
+Endeavor 72.497%
+Toxic Spikes 71.567%
+Poison Jab 25.748%
+Protect 21.635%
+Earthquake 18.971%
+Baton Pass  9.776%
+Swords Dance  6.614%
+Other 13.729%
++
+Teammates
+Raikou 39.031%
+Azumarill 38.109%
+Garchomp 34.958%
+Scizor 33.586%
+Tornadus-Therian 25.110%
+Gengar 4.575%
+Magnezone 4.080%
+Bisharp 3.380%
+Thundurus-Therian 3.168%
+Gardevoir 3.167%
+Sharpedo 2.887%
+Celebi 1.313%
++
++
++
+Terrakion
++
++
+Justified 100.000%
++
+Choice Scarf 33.899%
+Life Orb 27.904%
+Focus Sash 20.719%
+Choice Band 14.631%
+Other  2.847%
++
+Jolly:0/252/0/0/4/252 54.733%
+Jolly:0/252/4/0/0/252 17.999%
+Adamant:0/252/0/0/4/252 10.141%
+Jolly:4/252/0/0/0/252  7.074%
+Adamant:4/252/0/0/0/252  2.967%
+Jolly:0/252/0/0/0/252  1.932%
+Other  5.154%
++
+Close Combat 99.560%
+Stone Edge 94.364%
+Swords Dance 35.467%
+Earthquake 26.414%
+Iron Head 22.174%
+Rock Slide 20.906%
+Stealth Rock 18.958%
+X-Scissor 18.776%
+Quick Attack 17.443%
+Rock Polish 13.707%
+Taunt 12.279%
+Other 19.953%
++
+Teammates
+Slowbro 12.216%
+Gengar 8.293%
+Magnezone 7.234%
+Latios 6.949%
+Altaria 6.729%
+Amoonguss 6.428%
+Victini 4.769%
+Mamoswine 3.616%
+Blastoise 3.437%
+Latias 3.200%
+Mew 3.042%
+Gliscor 2.819%
++
++
++
++
++
+Adaptability 99.783%
+Hyper Cutter  0.195%
+Shell Armor  0.022%
++
+Life Orb 79.246%
+Focus Sash  8.677%
+Splash Plate  5.148%
+Choice Band  4.695%
+Other  2.235%
++
+Adamant:0/252/4/0/0/252 14.626%
+Adamant:0/252/0/0/4/252 12.852%
+Jolly:4/252/0/0/0/252  9.437%
+Jolly:0/252/4/0/0/252  8.849%
+Jolly:0/252/0/0/4/252  6.579%
+Jolly:0/252/0/0/0/252  5.760%
+Other 41.897%
++
+Aqua Jet 98.959%
+Knock Off 98.560%
+Crabhammer 94.647%
+Swords Dance 77.662%
+Dragon Dance  9.200%
+Superpower  8.649%
+Other 12.324%
++
+Teammates
+Manectric 22.905%
+Landorus-Therian 16.449%
+Dragalge 9.800%
+Latios 9.629%
+Cresselia 8.809%
+Lucario 5.306%
+Cofagrigus 4.983%
+Latias 4.444%
+Emboar 4.146%
+Diancie 3.793%
+Uxie 3.718%
+Porygon2 3.478%
++
++
++
+Feraligatr
++
++
+Sheer Force 99.552%
+Torrent  0.448%
++
+Life Orb 97.810%
+Other  2.190%
++
+Adamant:0/252/0/0/4/252 24.986%
+Jolly:0/252/0/0/4/252 20.761%
+Jolly:0/252/4/0/0/252 15.852%
+Adamant:6/252/0/0/0/252  9.661%
+Adamant:144/252/0/0/0/112  4.978%
+Jolly:24/252/0/0/0/232  3.034%
+Other 20.727%
++
+Waterfall 99.074%
+Dragon Dance 83.760%
+Crunch 67.989%
+Ice Punch 67.513%
+Superpower 33.474%
+Aqua Jet 27.364%
+Swords Dance 15.091%
+Other  5.736%
++
+Teammates
+Latios 14.077%
+Gyarados 13.352%
+Talonflame 12.122%
+Jirachi 8.123%
+Breloom 6.595%
+Latias 4.468%
+Charizard 4.375%
+Tangrowth 3.485%
+Garchomp 3.447%
+Aerodactyl 3.393%
+Krookodile 3.309%
+Tyrantrum 3.135%
++
++
++
+Hawlucha
++
++
+Unburden 98.224%
+Limber  1.142%
+Mold Breaker  0.635%
++
+Sitrus Berry 91.571%
+Power Herb  5.307%
+Other  3.121%
++
+Adamant:0/252/252/0/0/4 48.213%
+Jolly:12/252/0/0/0/244 21.424%
+Adamant:0/252/0/0/4/252  3.596%
+Adamant:4/252/0/0/0/252  3.201%
+Adamant:0/252/4/0/0/252  2.948%
+Jolly:0/252/0/0/4/252  2.635%
+Other 17.983%
++
+Acrobatics 98.743%
+Swords Dance 95.556%
+Substitute 90.281%
+Drain Punch 51.139%
+High Jump Kick 47.956%
+Other 16.326%
++
+Teammates
+Magnezone 41.758%
+Kyurem-Black 41.124%
+Diancie 41.021%
+Landorus-Therian 34.204%
+Hoopa-Unbound 30.718%
+Manectric 8.878%
+Sylveon 7.622%
+Entei 6.016%
+Starmie 3.904%
+Archeops 2.602%
+Diggersby 1.607%
++
++
++
+Mamoswine
++
++
+Thick Fat 85.996%
+Oblivious 13.809%
+Snow Cloak  0.195%
++
+Life Orb 50.377%
+Focus Sash 36.992%
+Choice Band  3.403%
+Choice Scarf  2.834%
+Assault Vest  1.561%
+Other  4.832%
++
+Jolly:0/252/0/0/4/252 17.402%
+Naive:0/240/0/16/0/252 13.109%
+Jolly:0/252/4/0/0/252 13.015%
+Adamant:0/252/0/0/4/252  9.711%
+Naive:0/244/0/12/0/252  9.026%
+Adamant:0/252/4/0/0/252  5.411%
+Other 32.326%
++
+Earthquake 99.076%
+Ice Shard 94.851%
+Icicle Crash 63.845%
+Stealth Rock 58.077%
+Freeze-Dry 33.769%
+Icicle Spear 13.701%
+Knock Off 11.181%
+Endeavor 10.829%
+Other 14.670%
++
+Teammates
+Breloom 13.509%
+Charizard 10.499%
+Aerodactyl 10.040%
+Slowking 8.536%
+Gyarados 5.989%
+Dragonite 5.774%
+Empoleon 5.308%
+Blastoise 5.182%
+Terrakion 4.078%
+Jirachi 3.167%
+Raikou 3.098%
+Kabutops 2.635%
++
++
++
+Vaporeon
++
++
+Water Absorb 98.973%
+Hydration  1.027%
++
+Leftovers 97.837%
+Other  2.163%
++
+Bold:248/0/252/0/8/0 71.011%
+Bold:252/0/252/0/4/0  6.472%
+Bold:192/0/252/64/0/0  3.947%
+Calm:252/0/0/4/252/0  3.293%
+Calm:248/0/160/0/100/0  1.903%
+Bold:204/0/248/0/56/0  1.658%
+Other 11.716%
++
+Scald 99.677%
+Wish 96.953%
+Protect 95.064%
+Heal Bell 87.951%
+Ice Beam  4.958%
+Other 15.396%
++
+Teammates
+Volcarona 73.775%
+Sableye 70.362%
+Serperior 66.702%
+Excadrill 58.836%
+Landorus-Therian 51.812%
+Shedinja 3.029%
+Dugtrio 2.816%
+Espeon 2.367%
+Mew 2.332%
+Arcanine 1.688%
+Donphan 1.566%
+Celebi 1.537%
++
++
++
+Entei
++
++
+Pressure 100.000%
++
+Choice Band 55.994%
+Life Orb 26.185%
+Assault Vest  6.534%
+Muscle Band  5.039%
+Leftovers  1.811%
+Other  4.437%
++
+Adamant:0/252/0/0/4/252 44.843%
+Adamant:0/252/4/0/0/252 36.894%
+Adamant:4/252/0/0/0/252  8.439%
+Adamant:32/252/0/0/0/224  1.907%
+Careful:252/0/4/0/252/0  0.714%
+Adamant:248/252/0/0/8/0  0.627%
+Other  6.576%
++
+Sacred Fire 99.275%
+Extreme Speed 93.934%
+Bulldoze 80.115%
+Stone Edge 70.141%
+Howl 22.115%
+Iron Head 17.969%
+Other 16.450%
++
+Teammates
+Victini 14.543%
+Venusaur 12.375%
+Latios 12.042%
+Sceptile 9.109%
+Manectric 9.024%
+Charizard 8.702%
+Sylveon 7.464%
+Conkeldurr 7.405%
+Hawlucha 7.004%
+Bisharp 6.056%
+Froslass 4.352%
+Gyarados 3.854%
++
++
++
+Ditto
++
++
+Imposter 99.936%
+Limber  0.064%
++
+Choice Scarf 59.444%
+Quick Claw 38.549%
+Other  2.006%
++
+Relaxed:234/0/252/0/24/0 35.648%
+Bold:252/0/252/0/0/4 32.761%
+Bold:248/0/252/0/8/0  7.130%
+Relaxed:248/0/252/0/8/0  5.596%
+Timid:248/0/0/0/8/252  4.241%
+Relaxed:252/4/252/0/0/0  1.794%
+Other 12.831%
++
+Nothing 300.000%
+Transform 100.000%
++
+Teammates
+Gothitelle 39.813%
+Shedinja 37.723%
+Dugtrio 36.886%
+Togekiss 35.594%
+Suicune 33.022%
+Sableye 31.989%
+Gliscor 30.453%
+Chansey 29.420%
+Scizor 23.429%
+Clefable 20.942%
+Umbreon 3.642%
+Alomomola 3.592%
++
++
++
+Beedrill
++
++
+Swarm 84.389%
+Sniper 15.611%
++
+Beedrillite 99.952%
+Other  0.048%
++
+Jolly:0/252/0/0/4/252 42.693%
+Jolly:80/252/0/0/0/176 21.634%
+Jolly:0/252/44/0/0/212 11.485%
+Jolly:0/252/80/0/0/176  7.070%
+Jolly:0/252/4/0/0/252  6.327%
+Adamant:0/252/0/0/4/252  2.726%
+Other  8.066%
++
+Poison Jab 99.731%
+U-turn 98.083%
+Protect 96.386%
+Drill Run 54.806%
+Knock Off 38.963%
+Other 12.030%
++
+Teammates
+Gothitelle 28.274%
+Rotom-Wash 26.022%
+Magnezone 25.508%
+Azumarill 24.254%
+Garchomp 21.552%
+Scizor 15.884%
+Kyurem-Black 11.079%
+Klefki 7.836%
+Zapdos 4.629%
+Starmie 4.395%
+Latios 3.831%
+Magneton 2.196%
++
++
++
+Cresselia
++
++
+Levitate 100.000%
++
+Leftovers 79.414%
+Mental Herb 13.733%
+Colbur Berry  1.494%
+Light Clay  1.470%
+Other  3.890%
++
+Calm:252/0/84/0/172/0 21.933%
+Calm:248/0/96/0/164/0 15.511%
+Calm:252/0/4/0/252/0 11.400%
+Bold:252/0/252/0/4/0  9.059%
+Relaxed:248/0/252/0/8/0  9.059%
+Bold:248/0/220/0/40/0  5.898%
+Other 27.138%
++
+Moonlight 86.397%
+Psyshock 66.115%
+Skill Swap 56.699%
+Toxic 52.227%
+Lunar Dance 31.583%
+Trick Room 28.107%
+Psychic 19.255%
+Moonblast 14.905%
+Thunder Wave 14.895%
+Ice Beam  9.524%
+Reflect  6.219%
+Other 14.073%
++
+Teammates
+Chansey 47.951%
+Sableye 47.297%
+Quagsire 43.472%
+Gothitelle 41.949%
+Skarmory 38.882%
+Jellicent 11.202%
+Dragalge 10.396%
+Altaria 8.988%
+Poliwrath 6.389%
+Uxie 5.264%
+Emboar 4.617%
++
++
++
+Tangrowth
++
++
+Regenerator 99.638%
+Chlorophyll  0.361%
+Leaf Guard  0.001%
++
+Assault Vest 82.566%
+Leftovers  9.378%
+Rocky Helmet  6.184%
+Other  1.873%
++
+Sassy:252/0/4/0/252/0 20.175%
+Relaxed:248/0/56/0/204/0  9.152%
+Sassy:252/0/24/0/232/0  7.552%
+Sassy:248/0/8/0/252/0  6.460%
+Sassy:248/0/0/8/252/0  6.332%
+Sassy:240/0/16/0/252/0  5.347%
+Other 44.981%
++
+Knock Off 88.710%
+Leaf Storm 64.799%
+Earthquake 61.845%
+Hidden Power Fire 43.674%
+Hidden Power Ice 35.119%
+Giga Drain 33.406%
+Sludge Bomb 26.339%
+Sleep Powder 11.494%
+Leech Seed 11.267%
+Rock Slide 10.444%
+Other 12.903%
++
+Teammates
+Quagsire 14.963%
+Skarmory 13.412%
+Heatran 13.320%
+Tyranitar 11.477%
+Excadrill 9.358%
+Slowbro 9.293%
+Charizard 9.165%
+Sableye 8.200%
+Gliscor 6.793%
+Hippowdon 6.658%
+Jirachi 5.936%
+Zapdos 5.088%
++
++
++
+Thundurus-Therian
++
++
+Volt Absorb 100.000%
++
+Leftovers 44.552%
+Choice Scarf 16.113%
+Life Orb 13.615%
+Choice Specs 12.150%
+Assault Vest  6.344%
+Expert Belt  2.792%
+Other  4.433%
++
+Timid:0/0/0/252/4/252 42.177%
+Timid:4/0/0/252/0/252  9.417%
+Modest:0/0/0/252/4/252  8.730%
+Modest:0/0/0/252/0/252  7.990%
+Modest:32/0/0/228/0/248  4.237%
+Modest:228/0/0/248/0/32  4.040%
+Other 23.409%
++
+Thunderbolt 88.770%
+Hidden Power Ice 83.523%
+Focus Blast 78.902%
+Nasty Plot 47.581%
+Volt Switch 36.261%
+Agility 13.295%
+Grass Knot 12.246%
+Hidden Power Flying 10.002%
+Knock Off  4.672%
+Thunder  3.915%
+Sludge Wave  3.750%
+Other 17.084%
++
+Teammates
+Klefki 12.747%
+Garchomp 11.852%
+Azumarill 10.550%
+Excadrill 9.515%
+Slowbro 9.252%
+Staraptor 7.624%
+Gyarados 7.346%
+Aerodactyl 6.806%
+Tyranitar 6.408%
+Dragonite 4.459%
+Scolipede 4.431%
+Sharpedo 3.928%
++
++
++
+Rotom-Heat
++
++
+Levitate 100.000%
++
+Leftovers 89.865%
+Choice Scarf  5.173%
+Other  4.962%
++
+Bold:248/0/252/0/0/8 48.310%
+Calm:252/0/56/0/200/0  9.089%
+Bold:252/0/172/0/84/0  8.754%
+Calm:240/0/8/0/216/44  6.670%
+Calm:252/0/0/4/252/0  3.052%
+Bold:240/0/224/0/0/44  2.545%
+Other 21.580%
++
+Overheat 97.976%
+Volt Switch 88.017%
+Pain Split 85.167%
+Thunder Wave 60.039%
+Will-O-Wisp 35.189%
+Discharge  9.385%
+Thunderbolt  6.129%
+Other 18.097%
++
+Teammates
+Latias 46.205%
+Barbaracle 44.499%
+Lopunny 35.198%
+Clefable 34.713%
+Bisharp 30.373%
+Slowbro 10.433%
+Abomasnow 8.879%
+Umbreon 8.761%
+Togekiss 6.962%
+Chatot 6.610%
+Altaria 5.806%
+Magnezone 3.259%
++
++
++
+Dragalge
++
++
+Adaptability 99.178%
+Poison Point  0.756%
+Poison Touch  0.065%
++
+Black Sludge 47.112%
+Choice Specs 16.133%
+Leftovers 14.052%
+Life Orb 11.107%
+Draco Plate  5.167%
+Assault Vest  3.998%
+Other  2.430%
++
+Modest:228/0/0/252/0/28 13.069%
+Calm:248/0/60/20/180/0 11.227%
+Quiet:248/0/0/252/8/0  9.269%
+Modest:252/0/0/192/0/64  7.175%
+Modest:248/0/0/252/8/0  7.115%
+Modest:196/0/0/252/0/60  7.090%
+Other 45.054%
++
+Draco Meteor 93.493%
+Toxic Spikes 68.477%
+Sludge Wave 57.368%
+Focus Blast 55.307%
+Sludge Bomb 41.865%
+Hidden Power Fire 34.203%
+Scald 14.620%
+Dragon Pulse 10.706%
+Dragon Tail  4.743%
+Other 19.217%
++
+Teammates
+Lopunny 20.999%
+Serperior 18.498%
+Heatran 17.074%
+Clefable 15.538%
+Cresselia 11.073%
+Landorus-Therian 10.331%
+Victini 5.983%
+Steelix 5.599%
+Uxie 5.547%
+Hippowdon 5.535%
+Cofagrigus 5.419%
++
++
++
+Sceptile
++
++
+Overgrow 98.681%
+Unburden  1.319%
++
+Sceptilite 99.218%
+Other  0.782%
++
+Timid:0/0/0/252/4/252 45.171%
+Hasty:0/4/0/252/0/252  8.995%
+Timid:4/0/0/252/0/252  6.096%
+Timid:0/0/4/252/0/252  5.991%
+Naive:0/4/0/252/0/252  5.748%
+Naive:0/0/4/252/0/252  4.328%
+Other 23.671%
++
+Dragon Pulse 95.959%
+Leaf Storm 65.875%
+Focus Blast 61.738%
+Substitute 44.257%
+Giga Drain 35.686%
+Hidden Power Fire 33.722%
+Earthquake 27.323%
+Rock Slide 10.056%
+Energy Ball  6.899%
+Other 18.486%
++
+Teammates
+Staraptor 24.537%
+Dragonite 23.807%
+Tyranitar 20.579%
+Talonflame 16.645%
+Excadrill 16.240%
+Entei 10.438%
+Starmie 7.096%
+Victini 6.242%
+Conkeldurr 5.667%
+Hydreigon 4.582%
+Tyrantrum 4.113%
+Krookodile 4.095%
++
++
++
+Reuniclus
++
++
+Magic Guard 98.124%
+Regenerator  1.759%
+Overcoat  0.117%
++
+Leftovers 84.908%
+Life Orb 12.512%
+Other  2.580%
++
+Bold:252/0/200/0/56/0 39.590%
+Bold:252/0/240/0/0/16 20.175%
+Bold:252/0/252/4/0/0  7.848%
+Bold:248/0/200/0/60/0  4.011%
+Modest:240/0/0/252/0/16  3.742%
+Quiet:252/0/4/252/0/0  2.722%
+Other 21.912%
++
+Recover 88.366%
+Psyshock 88.055%
+Calm Mind 86.484%
+Shadow Ball 50.419%
+Signal Beam 28.728%
+Focus Blast 26.428%
+Trick Room 11.483%
+Psychic 11.123%
+Other  8.914%
++
+Teammates
+Latias 43.431%
+Keldeo 41.962%
+Ferrothorn 23.291%
+Gliscor 21.929%
+Tyranitar 21.816%
+Clefable 20.407%
+Heatran 16.292%
+Skarmory 15.789%
+Suicune 2.124%
+Porygon2 1.815%
+Thundurus-Therian 1.668%
+Feraligatr 1.265%
++
++
++
+Wobbuffet
++
++
+Shadow Tag 99.983%
+Telepathy  0.017%
++
+Custap Berry 57.722%
+Leftovers 33.216%
+Sitrus Berry  6.485%
+Other  2.577%
++
+Bold:52/0/232/0/224/0 41.311%
+Bold:248/0/252/0/8/0 12.910%
+Bold:32/0/252/0/80/144 10.265%
+Calm:252/0/100/0/156/0  4.275%
+Bold:248/0/184/0/76/0  3.539%
+Hardy:4/0/252/0/252/0  3.029%
+Other 24.671%
++
+Mirror Coat 99.999%
+Counter 99.999%
+Encore 99.729%
+Destiny Bond 71.984%
+Safeguard 22.749%
+Other  5.540%
++
+Teammates
+Weavile 42.663%
+Azelf 40.769%
+Manectric 35.758%
+Breloom 34.002%
+Manaphy 31.184%
+Diancie 7.025%
+Dugtrio 6.614%
+Gothitelle 5.833%
+Gothorita 4.742%
+Azumarill 4.193%
+Tyranitar 4.110%
+Charizard 3.539%
++
++
++
+Lucario
++
++
+Justified 67.108%
+Inner Focus 20.686%
+Steadfast 12.206%
++
+Life Orb 80.417%
+Focus Sash  5.704%
+Air Balloon  5.311%
+Choice Scarf  2.638%
+Choice Band  2.096%
+Other  3.835%
++
+Adamant:0/252/0/0/4/252 33.395%
+Adamant:0/252/4/0/0/252 26.604%
+Adamant:4/252/0/0/0/252 12.301%
+Jolly:0/252/0/0/4/252 10.801%
+Timid:0/0/0/252/4/252  4.030%
+Jolly:0/252/4/0/0/252  2.810%
+Other 10.058%
++
+Close Combat 88.618%
+Extreme Speed 87.049%
+Swords Dance 73.428%
+Iron Tail 50.109%
+Crunch 21.069%
+Bullet Punch 20.650%
+Ice Punch 11.092%
+Flash Cannon  9.613%
+Aura Sphere  7.605%
+Vacuum Wave  7.208%
+Nasty Plot  6.624%
+Other 16.934%
++
+Teammates
+Ferrothorn 15.883%
+Manectric 14.941%
+Latios 14.601%
+Kingdra 10.138%
+Politoed 9.765%
+Kabutops 7.543%
+Latias 6.558%
+Landorus-Therian 5.691%
+Togekiss 4.371%
+Clefable 4.130%
+Mandibuzz 3.781%
