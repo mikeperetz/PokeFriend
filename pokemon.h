@@ -31,7 +31,15 @@ public:
 
     Pokemon(string pokemon_name);       //oooh lordy this one initializes "name" to the name. Also, now we get to dig around in our PokeLibraries for all of that other info !
 
-    void addAbility(Ability ability, double probability);   //Wait what is this lol ill look tomorrow
+
+    /* the add____ functions are used to populate the potential_____
+     * member maps. Pokelibrary extracts the data from the .txt file and will individually call the adders with the correct parameters */
+
+    void addAbility(Ability ability, double probability);
+
+    void addItem(Item item, double probability);
+
+     void addStatSpread(StatSpread statspread, double probability);
 
     vector<pair<Ability, double>> getAbilities();           //returns all of the abilities in case you are into that or something. man, these comments are getting shitty.
 
@@ -44,7 +52,7 @@ private:
     string name;                                //the name of the pokemon, man
 
 
-    map<StatSpread, double> potential_stats;    //map of the common stat spreads to their probability
+    map<StatSpread, double> potential_statspreads;    //map of the common stat spreads to their probability
     map<Ability, double> potential_abilities;   //map of the common abilities to their probability
     map<Item, double> potential_items;          //map of the common items to their probability
     map<Move, double> potential_moves;          //map of the common moves to their probability (probably want to associate moveset logic at some point. Idk we will see!)

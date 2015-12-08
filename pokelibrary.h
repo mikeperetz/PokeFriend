@@ -4,6 +4,7 @@
 #include <unordered_map>
 #include <fstream>
 #include <iostream>
+#include <memory>
 #include "pokemon.h"
 #include "move.h"
 #include "ability.h"
