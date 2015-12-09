@@ -25,11 +25,3 @@ Effect Ability::effect() const
     return effect_;
 }
 
-string Ability::getName(){                  //retrieves "name"
-    return name_;
-}
-
-
-Effect Ability::getEffect(){                //retrieves "effect"
-    return effect_;
-}

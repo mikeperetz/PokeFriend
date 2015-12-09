@@ -55,15 +55,11 @@ int StatSpread::speed() const
     return speed_;
 }
 
-string StatSpread::nature() const
+Nature StatSpread::nature() const
 {
     return nature_;
 }
 
-Effect StatSpread::nature_effect() const
-{
-    return nature_effect_;
-}
 
 int StatSpread::spatt() const
 {

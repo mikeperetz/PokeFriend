@@ -1,15 +1,18 @@
 #ifndef STATSPREAD_H
 #define STATSPREAD_H
 #include "effect.h"
+#include "nature.h"
 #include <cstdint>
 #include <iostream>
 #include <vector>
+#include "basestats.h"
+#include "stats.h"
 
 class StatSpread
 {
 public:
     StatSpread();
-    StatSpread(string nature, BaseStats base_spread, Stats ev_spread, Stats iv_spread);
+    StatSpread(Nature nature, BaseStats base_spread, Stats ev_spread, Stats iv_spread);
 
     bool operator<(const StatSpread& other) const;
 
@@ -27,7 +30,7 @@ public:
 
     int speed() const;
 
-    string nature() const;
+    Nature nature() const;
 
     Effect nature_effect() const;
 

@@ -6,9 +6,15 @@
 #include <iostream>
 #include <memory>
 #include "pokemon.h"
-#include "move.h"
 #include "ability.h"
+#include "effect.h"
 #include "item.h"
+#include "move.h"
+#include "stats.h"
+#include "nature.h"
+#include "basestats.h"
+#include "statspread.h"
+#include "type.h"
 
 /**
  * @brief The PokeLibrary class is the backbone of the entire structure (shit, didn't even get to the logic yet.... how tedious). It contains libraries to store pokemon, moves, abilities, items, teams(?), and effects(?).
@@ -36,6 +42,8 @@ public:
 
 
 
+    void setPokemon_library(const unique_ptr<unordered_map<string, Pokemon> > &value);
+
 private:
 
     /* these are all hash-maps. their size cancels out the initial overhead of a hash-map vs a dictionary.
@@ -45,8 +53,10 @@ private:
      * especially when there is no worthwhile (as in, worth the effort) ordering, and the runtime wouldn't compare
      * to a hash-map regardless */
 
-    unordered_map<string, Pokemon>  pokemon_library; //maps the name of a pokemon to its Pokemon object
-   // unordered_map<string, Move> * move_library;  //maps the name of a move to its Move object
+    shared_ptr<unordered_map<string, Pokemon>> pokemon_library; //maps the name of a pokemon to its Pokemon object
+    //unique_ptr<unordered_map<string, BaseStats>> base_stat_library;  //maps the name of a move to its BaseStats object
+    unordered_map<string, BaseStats> base_stat_library;
+
     //unordered_map<string, Item> * item_library; //maps the name of an item to its Item object
     //unordered_map<string, Ability> * ability_library; //maps the name of an ability to its Ability object
 
@@ -55,7 +65,7 @@ private:
      * The others may be viable enought to input manually (lol as if I realistically have a choice */
 
     void make_pokemon_library();
-    void make_move_library();
+    void make_base_stat_library();
     void make_ability_library();
     void make_item_libarary();
 

@@ -1,8 +1,6 @@
 #ifndef STATS_H
 #define STATS_H
 
-
-
 #include "effect.h"
 #include <cstdint>
 #include <iostream>
@@ -31,7 +29,7 @@ public:
 
 
 
-private:
+protected:
     int hp_;
     int att_;
     int def_;
@@ -40,7 +38,7 @@ private:
     int speed_;
 
 
-\
+
 };
 
 

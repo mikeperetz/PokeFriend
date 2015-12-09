@@ -46,3 +46,8 @@ vector<pair<Ability, double> > Pokemon::getAbilities(){
        abilities.push_back(*it); //push back the ability/probability pair
    return abilities;
 }
+
+void Pokemon::setBase_stats(const BaseStats &base_stats)
+{
+    base_stats_ = base_stats;
+}
