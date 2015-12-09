@@ -8,7 +8,7 @@ vector<string> potential_type; //for megas and zoroark
 */
 
 Pokemon::Pokemon(){
-    name =  "N/A";
+    name_ =  "N/A";
     potential_statspreads = map<StatSpread, double>();
     potential_abilities = map<Ability,double>();
     potential_items = map<Item, double>();
@@ -17,7 +17,7 @@ Pokemon::Pokemon(){
 }
 
 Pokemon::Pokemon(string pokemon_name){
-   name = pokemon_name;
+   name_ = pokemon_name;
    potential_statspreads = map<StatSpread, double>();
    potential_abilities = map<Ability,double>();
    potential_items = map<Item, double>();
@@ -35,6 +35,7 @@ void Pokemon::addItem(Item item, double probability){
 
 
 void Pokemon::addStatSpread(StatSpread statspread, double probability){
+
     potential_statspreads[statspread] = probability;
 }
 

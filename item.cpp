@@ -2,13 +2,13 @@
 
 Item::Item()
 {
-    name = "N/A";
-    effect = Effect();
+    name_ = "N/A";
+    effect_ = Effect();
 }
 
 Item::Item(string item_name){
-    name = item_name;
-    effect = Effect(name);
+    name_ = item_name;
+    effect_ = Effect(name_);
 }
 
 

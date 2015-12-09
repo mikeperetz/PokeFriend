@@ -26,7 +26,10 @@ SOURCES += main.cpp\
     effect.cpp \
     statspread.cpp \
     type.cpp \
-    status.cpp
+    status.cpp \
+    basestats.cpp \
+    stats.cpp \
+    nature.cpp
 
 HEADERS  += mainwindow.h \
     pokelibrary.h \
@@ -39,7 +42,10 @@ HEADERS  += mainwindow.h \
     effect.h \
     statspread.h \
     type.h \
-    status.h
+    status.h \
+    basestats.h \
+    stats.h \
+    nature.h
 
 FORMS    += mainwindow.ui
 

@@ -39,7 +39,7 @@ public:
 
     void addItem(Item item, double probability);
 
-     void addStatSpread(StatSpread statspread, double probability);
+    void addStatSpread(StatSpread statspread, double probability);
 
     vector<pair<Ability, double>> getAbilities();           //returns all of the abilities in case you are into that or something. man, these comments are getting shitty.
 
@@ -49,7 +49,8 @@ public:
 
 private:
 
-    string name;                                //the name of the pokemon, man
+    string name_;                                //the name of the pokemon, man
+    BaseStats base_stats_;
 
 
     map<StatSpread, double> potential_statspreads;    //map of the common stat spreads to their probability

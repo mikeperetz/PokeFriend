@@ -20,17 +20,20 @@ public:
     Ability();                      //default constructor
     Ability(string ability_name);   //constructor takes in the name of the ability and initializes "name" and "effect" (via the effect constructor)
 
-    string getName();               //return the "name"
-    Effect getEffect();             //return the "effect"
-
-bool operator<(const Ability& other) const;     //operator so that the map doesn't yell at me (doesn't do anything)
 
 
+    bool operator<(const Ability& other) const;     //operator so that the map doesn't yell at me (doesn't do anything)
 
+
+
+
+    string name() const;
+
+    Effect effect() const;
 
 private:
-    string name;                    //the name of the ability
-    Effect effect;                  //the effect of the ability
+    string name_;                    //the name of the ability
+    Effect effect_;                  //the effect of the ability
 };
 
 #endif // ABILITY_H

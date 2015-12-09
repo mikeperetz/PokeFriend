@@ -24,8 +24,8 @@ public:
     bool operator<(const Item& other) const;        //overloaded < operator does nothing. map won't compile otherwise.
 
 private:
-    string name;
-    Effect effect;
+    string name_;
+    Effect effect_;
 
 };
 

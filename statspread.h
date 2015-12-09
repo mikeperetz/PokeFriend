@@ -9,20 +9,41 @@ class StatSpread
 {
 public:
     StatSpread();
-    StatSpread(string _nature, vector<int> ev_spread);
+    StatSpread(string nature, BaseStats base_spread, Stats ev_spread, Stats iv_spread);
 
     bool operator<(const StatSpread& other) const;
 
 
+
+    int hp() const;
+
+    int att() const;
+
+    int def() const;
+
+    int spatt() const;
+
+    int spdef() const;
+
+    int speed() const;
+
+    string nature() const;
+
+    Effect nature_effect() const;
+
 private:
-    int hp;
-    int att;
-    int def;
-    int spatt;
-    int spdef;
-    int speed;
-    string nature;
-    Effect nature_effect;
+    int hp_;
+    int att_;
+    int def_;
+    int spatt_;
+    int spdef_;
+    int speed_;
+
+
+    Stats iv_;
+    Stats ev__;
+    BaseStats base_;
+    Nature nature_;
 };
 
 #endif // STATSPREAD_H
