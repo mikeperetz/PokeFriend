@@ -29,6 +29,7 @@ public:
 
 
 
+    Stats(string stat_string);
 protected:
     int hp_;
     int att_;

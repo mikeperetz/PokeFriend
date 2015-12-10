@@ -33,6 +33,7 @@ public:
 
 
 
+   BaseStats(string stats);
 private:
 //    int hp_;
 //    int att_;

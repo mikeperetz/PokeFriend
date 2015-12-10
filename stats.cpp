@@ -21,6 +21,30 @@ Stats::Stats(vector<int> stats)
 
 }
 
+Stats::Stats(string stat_string)
+{
+
+
+    vector<int> stat_vector;
+
+    size_t i = 0;
+    for (size_t j = 0; j < stat_string.length(); j ++){
+        if (j == stat_string.length()-1 || stat_string.at(j+1) == ' '){
+            stat_vector.push_back(stoi(stat_string.substr(i, j+1)));
+            j ++;
+            i = j+1;
+        }
+    }
+
+    hp_ = stat_vector[0];
+    att_ = stat_vector[1];
+    def_ = stat_vector[2];
+    spatt_ = stat_vector[3];
+    spdef_ = stat_vector[4];
+    speed_ = stat_vector[5];
+
+}
+
 int Stats::hp() const
 {
     return hp_;

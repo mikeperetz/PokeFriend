@@ -8,6 +8,8 @@ Nature::Nature()
     spdefMod_ = 1;
     speedMod_ = 1;
 
+    name_ = "N/A";
+
 }
 
 Nature::Nature(string name)
@@ -18,6 +20,7 @@ Nature::Nature(string name)
     spdefMod_ = 1;
     speedMod_ = 1;
 
+    name_ = name;
 
     if (name == "Hardy") {}
     else if (name == "Lonely") {attMod_ = 1.1; defMod_ = .9; }
@@ -44,6 +47,24 @@ Nature::Nature(string name)
     else if (name == "Sassy") {spdefMod_= 1.1; speedMod_ = .9; }
     else if (name == "Careful") {spdefMod_= 1.1; spattMod_ = .9; }
     else if (name == "Quirky") {}
+
+}
+
+bool Nature::operator ==(const Nature &rhs)
+{
+    return (
+                !(  //NOT. So, if there is a boost on one side and not the other, they are not similar enough
+                    (this->attMod() == 1.1 && rhs.attMod() != 1.1) ||
+                    (this->defMod() == 1.1 && rhs.defMod() != 1.1) ||
+                    (this->spattMod() == 1.1 && rhs.spattMod() != 1.1) ||
+                    (this->spdefMod() == 1.1 && rhs.spdefMod() != 1.1) ||
+                    (this->speedMod() == 1.1 && rhs.speedMod() != 1.1)
+
+                    )
+
+
+                );
+
 
 }
 
@@ -74,6 +95,11 @@ double Nature::spdefMod() const
 double Nature::speedMod() const
 {
     return speedMod_;
+}
+
+string Nature::name() const
+{
+    return name_;
 }
 
 

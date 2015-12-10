@@ -54,8 +54,9 @@ private:
      * to a hash-map regardless */
 
     shared_ptr<unordered_map<string, Pokemon>> pokemon_library; //maps the name of a pokemon to its Pokemon object
-    //unique_ptr<unordered_map<string, BaseStats>> base_stat_library;  //maps the name of a move to its BaseStats object
+    shared_ptr<unordered_map<string, Move>> move_library;  //maps the name of a move to its BaseStats object
     unordered_map<string, BaseStats> base_stat_library;
+
 
     //unordered_map<string, Item> * item_library; //maps the name of an item to its Item object
     //unordered_map<string, Ability> * ability_library; //maps the name of an ability to its Ability object
@@ -66,7 +67,7 @@ private:
 
     void make_pokemon_library();
     void make_base_stat_library();
-    void make_ability_library();
+    void make_move_library();
     void make_item_libarary();
 
 

@@ -32,7 +32,11 @@ public:
 
     Nature nature() const;
 
-    Effect nature_effect() const;
+    bool operator==( const StatSpread& rhs);
+
+    Stats ev() const;
+
+    Stats iv() const;
 
 private:
     int hp_;
@@ -44,7 +48,7 @@ private:
 
 
     Stats iv_;
-    Stats ev__;
+    Stats ev_;
     BaseStats base_;
     Nature nature_;
 };

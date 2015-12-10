@@ -11,6 +11,12 @@ StatSpread::StatSpread(Nature nature, BaseStats base_spread, Stats ev_spread, St
 
     nature_ = nature;
 
+    base_ = base_spread;
+
+    iv_ = iv_spread;
+
+    ev_ = ev_spread;
+
     hp_ = ( ( (2 * base_spread.hp() + iv_spread.hp() + ( ev_spread.hp() / 4 ) ) * level) / 100 ) + level + 10;
 
     att_ = ( ( ( (2 * base_spread.att() + iv_spread.att() + ( ev_spread.att() / 4 ) ) * level) / 100 ) + 5 ) * nature.attMod();
@@ -28,6 +34,24 @@ StatSpread::StatSpread(Nature nature, BaseStats base_spread, Stats ev_spread, St
 
 bool StatSpread::operator<(const StatSpread& other) const{
     return false;
+}
+
+bool StatSpread::operator==(const StatSpread& rhs){
+
+    Stats lhs_ev = this->ev();
+    Stats rhs_ev = rhs.ev();
+
+    return (
+                abs(lhs_ev.hp() - rhs_ev.hp()) < 12 &&
+                abs(lhs_ev.att() - rhs_ev.att()) < 12  &&
+                abs(lhs_ev.def() - rhs_ev.def()) < 12  &&
+                (lhs_ev.spatt() - rhs_ev.spatt()) < 12 &&
+                (lhs_ev.spdef() - rhs_ev.spdef()) < 12 &&
+                (lhs_ev.speed() - rhs_ev.speed()) < 12 &&
+                this->nature() == rhs.nature()
+
+                );
+
 }
 
 int StatSpread::hp() const
@@ -58,6 +82,16 @@ int StatSpread::speed() const
 Nature StatSpread::nature() const
 {
     return nature_;
+}
+
+Stats StatSpread::ev() const
+{
+    return ev_;
+}
+
+Stats StatSpread::iv() const
+{
+    return iv_;
 }
 
 

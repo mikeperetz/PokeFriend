@@ -36,6 +36,13 @@ void Pokemon::addItem(Item item, double probability){
 
 void Pokemon::addStatSpread(StatSpread statspread, double probability){
 
+    for (auto & set_spread : potential_statspreads){
+        if (statspread == set_spread.first){
+            set_spread.second += probability;
+            return;
+        }
+    }
+
     potential_statspreads[statspread] = probability;
 }
 

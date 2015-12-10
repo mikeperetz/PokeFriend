@@ -12,6 +12,8 @@ public:
     Nature();
     Nature(string name);
 
+    bool operator ==( const Nature& rhs);
+
 
     double attMod() const;
 
@@ -23,6 +25,8 @@ public:
 
     double speedMod() const;
 
+    string name() const;
+
 private:
 
     double attMod_;
@@ -30,6 +34,7 @@ private:
     double spattMod_;
     double spdefMod_;
     double speedMod_;
+    string name_;
 
 
 

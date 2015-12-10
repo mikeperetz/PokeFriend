@@ -52,4 +52,5 @@ FORMS    += mainwindow.ui
 DISTFILES += \
     pokemonlist.txt \
     stats.txt \
-    usagestats.txt
+    usagestats.txt \
+    movelist.txt
