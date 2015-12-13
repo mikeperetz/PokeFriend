@@ -7,23 +7,25 @@ vector<vector<string>> potential_moves;
 vector<string> potential_type; //for megas and zoroark
 */
 
-Pokemon::Pokemon(){
-    name_ =  "N/A";
-    potential_statspreads = map<StatSpread, double>();
-    potential_abilities = map<Ability,double>();
-    potential_items = map<Item, double>();
-    potential_moves = map<Move,double>();
-    mega = false;
-}
+Pokemon::Pokemon() : name_("N/A"),
+    potential_statspreads(map<StatSpread, double>()),
+    potential_abilities(map<Ability,double>()) ,
+    potential_items(map<Item, double>()) ,
+    potential_moves(map<Move,double>()),
+    potential_type(map<Type,double>()),
+    mega(false) {}
 
-Pokemon::Pokemon(string pokemon_name){
-   name_ = pokemon_name;
-   potential_statspreads = map<StatSpread, double>();
-   potential_abilities = map<Ability,double>();
-   potential_items = map<Item, double>();
-   potential_moves = map<Move,double>();
-   mega = false;
-}
+
+
+Pokemon::Pokemon(string pokemon_name): name_("N/A"),
+    potential_statspreads(map<StatSpread, double>()),
+    potential_abilities(map<Ability,double>()) ,
+    potential_items(map<Item, double>()) ,
+    potential_moves(map<Move,double>()),
+    potential_type(map<Type,double>()),
+    mega(false) {}
+
+
 
 void Pokemon::addAbility(Ability ability, double probability){
     potential_abilities[ability] = probability;
@@ -46,12 +48,17 @@ void Pokemon::addStatSpread(StatSpread statspread, double probability){
     potential_statspreads[statspread] = probability;
 }
 
+void Pokemon::addMove(Move move_obj, double probability)
+{
+
+}
+
 
 vector<pair<Ability, double> > Pokemon::getAbilities(){
-   vector<pair<Ability, double>> abilities;
-   for (auto it = potential_abilities.begin(); it!=potential_abilities.end(); it++ )
-       abilities.push_back(*it); //push back the ability/probability pair
-   return abilities;
+    vector<pair<Ability, double>> abilities;
+    for (auto it = potential_abilities.begin(); it!=potential_abilities.end(); it++ )
+        abilities.push_back(*it); //push back the ability/probability pair
+    return abilities;
 }
 
 void Pokemon::setBase_stats(const BaseStats &base_stats)

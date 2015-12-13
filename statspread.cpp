@@ -5,17 +5,9 @@ StatSpread::StatSpread()
 
 }
 
-StatSpread::StatSpread(Nature nature, BaseStats base_spread, Stats ev_spread, Stats iv_spread)
+StatSpread::StatSpread(Nature nature, BaseStats base_spread, Stats ev_spread, Stats iv_spread) : nature_(nature), base_(base_spread), ev_(ev_spread), iv_(iv_spread)
 {
     int level = 100;         //insert level constructor if you need to do lc or something stupid
-
-    nature_ = nature;
-
-    base_ = base_spread;
-
-    iv_ = iv_spread;
-
-    ev_ = ev_spread;
 
     hp_ = ( ( (2 * base_spread.hp() + iv_spread.hp() + ( ev_spread.hp() / 4 ) ) * level) / 100 ) + level + 10;
 

@@ -47,10 +47,11 @@ private:
     int speed_;
 
 
-    Stats iv_;
-    Stats ev_;
-    BaseStats base_;
     Nature nature_;
+    BaseStats base_;
+    Stats ev_;
+    Stats iv_;
+
 };
 
 #endif // STATSPREAD_H

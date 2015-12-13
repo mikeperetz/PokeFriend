@@ -1,26 +1,13 @@
 #include "nature.h"
 
-Nature::Nature()
+Nature::Nature() : attMod_(1), defMod_(1), spattMod_(1), spdefMod_(1), speedMod_(1), name_("N/A")
 {
-    attMod_ = 1;
-    defMod_ = 1;
-    spattMod_ = 1;
-    spdefMod_ = 1;
-    speedMod_ = 1;
-
-    name_ = "N/A";
 
 }
 
-Nature::Nature(string name)
+Nature::Nature(string name) : attMod_(1), defMod_(1), spattMod_(1), spdefMod_(1), speedMod_(1), name_("N/A")
 {
-    attMod_ = 1;
-    defMod_ = 1;
-    spattMod_ = 1;
-    spdefMod_ = 1;
-    speedMod_ = 1;
 
-    name_ = name;
 
     if (name == "Hardy") {}
     else if (name == "Lonely") {attMod_ = 1.1; defMod_ = .9; }

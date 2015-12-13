@@ -6,9 +6,10 @@
 PokeLibrary::PokeLibrary() //default construtor is the only constructor, and it constructs all of the sub-libraries
 {
     make_base_stat_library();
+    make_move_library();
     make_pokemon_library();
 
-    // make_move_library();
+
     //   make_item_libarary();
 
 }
@@ -40,9 +41,9 @@ void PokeLibrary::make_base_stat_library(){
             string base_stat_string = name_stats.substr(i+1, name_stats.length());               //We also need to extract the probability. We extract the substring, then use stod (string to double) to convert it to a real number!
 
 
-            BaseStats b(base_stat_string);
 
-            base_stat_library[pokemon_name] = b;
+
+            base_stat_library[pokemon_name] = BaseStats(base_stat_string);;
 
 
 
@@ -53,11 +54,222 @@ void PokeLibrary::make_base_stat_library(){
     else cout << "Unable to read stats.txt" << endl;
 }
 
+
 void PokeLibrary::make_move_library()
 {
     move_library.reset(new unordered_map<string, Move>());
 
+    string move_data;                                           //the line (pokemon name and stats)
+
+    ifstream myfile ("C:\\Users\\mikeperetz2\\Documents\\Qt-Projects\\PokeFriend\\movelist.txt"); //load in the file. Idk why it makes me put the whole address. I will have to check later. Double \\ to escape twice cuz syntax
+    if (myfile.is_open()){
+        while ( !myfile.eof() ){
+
+            string all_move_data;
+            getline (myfile,all_move_data);                                               //load each line to process
+            if (all_move_data == "") break;
+
+            int typeIndex = findTypeIndex(all_move_data);
+
+            if (typeIndex == -1){
+                cout << "Couldn't find move name" << endl;
+                return;
+            }
+
+            string move_name = all_move_data.substr(0, typeIndex-1);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+            string type_cat_dam_acc_pp_eff = all_move_data.substr(typeIndex, all_move_data.length());               //We also need to extract the probability. We extract the substring, then use stod (string to double) to convert it to a real number!
+
+
+            int catIndex;
+            for (catIndex = 0; (type_cat_dam_acc_pp_eff.at(catIndex)!= ' '); catIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                if (catIndex == type_cat_dam_acc_pp_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                    cout << "Couldn't find move type" << endl;
+                    return;
+                }
+            }
+
+            string move_type = type_cat_dam_acc_pp_eff.substr(0, catIndex);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+            string cat_dam_acc_pp_eff = type_cat_dam_acc_pp_eff.substr(catIndex+1, type_cat_dam_acc_pp_eff.length());
+
+
+            int damIndex;
+            for (damIndex = 0; (cat_dam_acc_pp_eff.at(damIndex)!= ' '); damIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                if (damIndex == cat_dam_acc_pp_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                    cout << "Couldn't find damage" << endl;
+                    return;
+                }
+            }
+
+            string move_cat = cat_dam_acc_pp_eff.substr(0, damIndex);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+            string dam_acc_pp_eff = cat_dam_acc_pp_eff.substr(damIndex+1, cat_dam_acc_pp_eff.length());
+
+
+            int accIndex;
+            for (accIndex = 0; (dam_acc_pp_eff.at(accIndex)!= ' '); accIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                if (accIndex == dam_acc_pp_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                    cout << "Couldn't find damage" << endl;
+                    return;
+                }
+            }
+
+            string move_dam = dam_acc_pp_eff.substr(0, accIndex);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+            if (move_dam == "-") move_dam = "0";
+            string acc_pp_eff = dam_acc_pp_eff.substr(accIndex+1, dam_acc_pp_eff.length());
+
+
+            int ppIndex;
+            for (ppIndex = 0; (acc_pp_eff.at(ppIndex)!= ' '); ppIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                if (ppIndex == acc_pp_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                    cout << "Couldn't find damage" << endl;
+                    return;
+                }
+            }
+
+            string move_acc = acc_pp_eff.substr(0, ppIndex);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+            if (move_acc == "-") move_acc = "100";
+            if (move_acc == "∞") move_acc = "-1";
+            string pp_eff = acc_pp_eff.substr(ppIndex+1, acc_pp_eff.length());
+
+            int effOrTMIndex;
+            for (effOrTMIndex = 0; (pp_eff.at(effOrTMIndex)!= ' '); effOrTMIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                if (effOrTMIndex == pp_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                    cout << "Couldn't find damage" << endl;
+                    return;
+                }
+            }
+
+
+
+            string move_pp = pp_eff.substr(0, effOrTMIndex);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+            if (move_pp == "-") move_pp = "-1";
+            string eff_or_tm = pp_eff.substr(effOrTMIndex+1, pp_eff.length());
+
+
+            if (eff_or_tm.at(0) == 'T' && eff_or_tm.at(1) == 'M'){
+
+                int effIndex;
+                for (effIndex = 0; (eff_or_tm.at(effIndex)!= ' '); effIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                    if (effIndex == eff_or_tm.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                        cout << "Thought that the move was a TM; couldn't find TM#" << endl;
+                        return;
+                    }
+
+
+                }
+
+
+                eff_or_tm = eff_or_tm.substr(effIndex+1, eff_or_tm.length());
+
+            }
+
+            string move_eff = eff_or_tm;
+            string effChance = "-1";
+
+
+
+            if (move_eff == "-") move_eff = "";
+
+
+
+            else{
+                int endIndex;
+                for (endIndex = 0; !(isdigit(move_eff.at(endIndex+1))) && !(move_eff.at(endIndex) == ' ' && move_eff.at(endIndex+1) == '-') ; endIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
+
+                    if (endIndex == move_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
+
+                        cout << "Couldn't find effect" << endl;
+                        return;
+                    }
+                }
+
+
+                effChance = move_eff.substr(endIndex+1, move_eff.length());
+                if (effChance == "-" || effChance.length() == 0) effChance = "-1";
+
+
+
+                move_eff = move_eff.substr(0, endIndex);
+            }
+
+
+
+
+            //move_name, move_type, move_cat, move_dam, move_acc, move_pp, move_eff, effChance
+
+
+            //  cout << "(Debug) All extracted info: " << move_name << " " << move_type << " " << move_cat << " " << move_dam << " " << move_acc << " " << move_pp << " " << move_eff << " " << effChance << endl;
+
+            (*move_library)[move_name] = Move(move_name, Type(move_type), move_cat, stoi(move_dam), stod(move_acc)/100, stoi(move_pp), Effect(move_eff, stod(effChance)/100));
+
+
+
+        }
+        myfile.close();
+    }
+
+    else cout << "Unable to read movelist.txt" << endl;
 }
+
+
+
+int PokeLibrary::findTypeIndex(string & move_data)
+{
+    int index = -1;
+
+    if ( ( index = move_data.find("NORMAL") )  != -1)
+        return index;
+    if ( ( index = move_data.find("FIRE") )  != -1)
+        return index;
+    if ( ( index = move_data.find("FIGHTING") )  != -1)
+        return index;
+    if ( ( index = move_data.find("WATER") )  != -1)
+        return index;
+    if ( ( index = move_data.find("FLYING") )  != -1)
+        return index;
+    if ( ( index = move_data.find("GRASS") )  != -1)
+        return index;
+    if ( ( index = move_data.find("POISON") )  != -1)
+        return index;
+    if ( ( index = move_data.find("ELECTRIC") )  != -1)
+        return index;
+    if ( ( index = move_data.find("GROUND") )  != -1)
+        return index;
+    if ( ( index = move_data.find("PSYCHIC") )  != -1)
+        return index;
+    if ( ( index = move_data.find("ROCK") )  != -1)
+        return index;
+    if ( ( index = move_data.find("ICE") )  != -1)
+        return index;
+    if ( ( index = move_data.find("BUG") )  != -1)
+        return index;
+    if ( ( index = move_data.find("DRAGON") )  != -1)
+        return index;
+    if ( ( index = move_data.find("GHOST") )  != -1)
+        return index;
+    if ( ( index = move_data.find("DARK") )  != -1)
+        return index;
+    if ( ( index = move_data.find("STEEL") )  != -1)
+        return index;
+    if ( ( index = move_data.find("FAIRY") )  != -1)
+        return index;
+    if ( ( index = move_data.find("???") )  != -1)
+        return index;
+
+    return index;
+}
+
 
 
 void PokeLibrary::make_pokemon_library(){
@@ -227,7 +439,7 @@ void PokeLibrary::make_pokemon_library(){
             getline(myfile, junk); //one +
 
 
-              while(myfile.peek() != '+'){
+            while(myfile.peek() != '+'){
                 string move_probability;
                 getline (myfile, move_probability); //retrieve the ability line
 
@@ -243,8 +455,8 @@ void PokeLibrary::make_pokemon_library(){
                 string _move = move_probability.substr(0, i);
                 double _probability = stod(move_probability.substr(i+1, move_probability.length()));
 
-                Move move_obj(); //change later
-                //(*pokemon_library)[name].addItem(item_obj, _probability);
+                Move move_obj; //change later
+                (*pokemon_library)[name].addMove(move_obj, _probability);
 
             }
 

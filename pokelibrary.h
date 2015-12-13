@@ -39,10 +39,12 @@ public:
     /* probably some getters here to extract data (lol they aren't gonna know about the ratchet, grueling tedium that goes on under the hood) */
 
 
+    unique_ptr<unordered_map<string, Pokemon>> pokemon_library; //maps the name of a pokemon to its Pokemon object
+    unique_ptr<unordered_map<string, Move>> move_library;  //maps the name of a move to its BaseStats object
+    unordered_map<string, BaseStats> base_stat_library;
 
 
-
-    void setPokemon_library(const unique_ptr<unordered_map<string, Pokemon> > &value);
+//    void setPokemon_library(const unique_ptr<unordered_map<string, Pokemon> > &value);
 
 private:
 
@@ -53,9 +55,7 @@ private:
      * especially when there is no worthwhile (as in, worth the effort) ordering, and the runtime wouldn't compare
      * to a hash-map regardless */
 
-    shared_ptr<unordered_map<string, Pokemon>> pokemon_library; //maps the name of a pokemon to its Pokemon object
-    shared_ptr<unordered_map<string, Move>> move_library;  //maps the name of a move to its BaseStats object
-    unordered_map<string, BaseStats> base_stat_library;
+
 
 
     //unordered_map<string, Item> * item_library; //maps the name of an item to its Item object
@@ -69,6 +69,8 @@ private:
     void make_base_stat_library();
     void make_move_library();
     void make_item_libarary();
+
+    int findTypeIndex(string &move_data);
 
 
 

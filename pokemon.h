@@ -44,6 +44,8 @@ public:
 
     void addStatSpread(StatSpread statspread, double probability);
 
+    void addMove(Move move_obj, double probability);
+
     vector<pair<Ability, double>> getAbilities();           //returns all of the abilities in case you are into that or something. man, these comments are getting shitty.
 
 

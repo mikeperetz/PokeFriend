@@ -13,6 +13,8 @@ TEMPLATE = app
 
 CONFIG += c++11
 
+QMAKE_CXXFLAGS += -Wno-sign-compare
+
 
 SOURCES += main.cpp\
         mainwindow.cpp \

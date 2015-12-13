@@ -1,14 +1,12 @@
 #include "item.h"
 
-Item::Item()
+Item::Item() : name_("N/A"), effect_(Effect())
 {
-    name_ = "N/A";
-    effect_ = Effect();
+
 }
 
-Item::Item(string item_name){
-    name_ = item_name;
-    effect_ = Effect(name_);
+Item::Item(string item_name): name_(item_name), effect_(Effect(name_)){
+
 }
 
 

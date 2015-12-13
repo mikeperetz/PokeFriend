@@ -1,35 +1,18 @@
 #include "basestats.h"
 
-BaseStats::BaseStats() : Stats(){
-//    hp_ = 0;
-//    att_ = 0;
-//    def_ = 0;
-//    spatt_ = 0;
-//    spdef_ = 0;
-//    speed_ = 0;
-    bst_ = 0;
+BaseStats::BaseStats() : Stats(), bst_(0){
+
 }
 
 BaseStats::BaseStats(vector<int> stats) : Stats(stats)
 {
-//    hp_ = stats[0];
-//    att_ = stats[1];
-//    def_ = stats[2];
-//    spatt_ = stats[3];
-//    spdef_ = stats[4];
-//    speed_ = stats[5];
-    bst_ = hp_ + att_ + def_ + spatt_ + spdef_ + speed_;
 
+    bst_ = hp_ + att_ + def_ + spatt_ + spdef_ + speed_;
 }
 
 BaseStats::BaseStats(string stats) : Stats(stats)
 {
-//    hp_ = stats[0];
-//    att_ = stats[1];
-//    def_ = stats[2];
-//    spatt_ = stats[3];
-//    spdef_ = stats[4];
-//    speed_ = stats[5];
+
     bst_ = hp_ + att_ + def_ + spatt_ + spdef_ + speed_;
 
 }
