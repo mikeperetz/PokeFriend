@@ -38,7 +38,7 @@ private:
     int damage_;
     double accuracy_;
     int pp_;
-    T effect_;
+    Effect effect_;
     int priority_;
 
 };

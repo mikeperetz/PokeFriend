@@ -10,6 +10,7 @@
 #include "stats.h"
 #include "nature.h"
 #include "basestats.h"
+#include "status.h"
 #include "statspread.h"
 #include "type.h"
 
@@ -25,7 +26,7 @@
 
 using namespace std;
 
-
+/*
 
 class BoostOpp {
 public:
@@ -35,6 +36,7 @@ private:
 
 
 };
+
 
 class BoostSelf {
 public:
@@ -185,25 +187,65 @@ class Trick {
 public:
 
 private:
-};
+};*/
 
 
 
 class Effect {
 public:
 
-    template<class T>
-    T effect;
+    Effect();
+    Effect(string description);
 
-    Effect(string description){
-        //stuff here
+double chance1, chance2;
 
-        effect = BoostOpp(description);
+double attmod, defmod, spamod, spdefmod, speedmod;
 
-    }
+double healPercent;
+
+bool cureSelf, cureTeam;
+
+bool switchSelf, switchOpp;
+
+int priority;
+
+bool multiHit;
+
+bool clearSide, clearBothSides;
+
+int multiTurn;
+
+//weather
+
+double recoilPercent;
+
+bool explode;
+
+int trap;
+
+int preventMove;
+
+bool flinch;
+
+bool confuse;
+
+bool protect;
+
+bool sub;
+
+bool passSub;
+
+bool knockOff;
+
+bool tradeItem;
 
 
-private:
+
+
+Status status_type;
+
+
+
 
 
 };

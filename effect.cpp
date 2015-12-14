@@ -2,7 +2,12 @@
 
 
 
-BoostOpp::BoostOpp(string description)
+Effect::Effect()
 {
-    //initialize boost variables here
+
+}
+
+Effect::Effect(string description)
+{
+
 }
