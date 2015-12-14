@@ -9,7 +9,8 @@ Aeroblast FLYING Special 100 95 5 High critical hit ratio. -
 After You NORMAL Status - - 15 Gives target priority in the next turn. -
 Agility PSYCHIC Status - - 30 Sharply raises user's Speed. -
 Air Cutter FLYING Special 60 95 25 High critical hit ratio. -
-Air Slash FLYING Special 75 95 20 May cause flinching. 30
+Air Slash FLYING Special 75 95 20 May cause flinching. 30\
+
 Ally Switch PSYCHIC Status - - 15 User switches with opposite teammate. -
 Amnesia PSYCHIC Status - - 20 Sharply raises user's Special Defense. -
 Ancient Power ROCK Special 60 100 5 May raise all user's stats at once. 10

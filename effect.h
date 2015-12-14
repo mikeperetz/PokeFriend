@@ -1,7 +1,17 @@
 #ifndef EFFECT_H
 #define EFFECT_H
 #include <cstdint>
-#include <iostream>
+#include <map>
+#include <vector>
+#include "ability.h"
+#include "effect.h"
+#include "item.h"
+#include "move.h"
+#include "stats.h"
+#include "nature.h"
+#include "basestats.h"
+#include "statspread.h"
+#include "type.h"
 
 /**
  * @brief Each different effect is assigned an Effect object noting ___________. These effect objects are stored within the effect_library in the PokeLibrary class.
@@ -16,51 +26,184 @@
 using namespace std;
 
 
-class Effect
-{
-public:
-    Effect();
-    Effect(string name);
-    Effect(string name, double chance);
 
-    int priority() const;
+class BoostOpp {
+public:
+    BoostOpp(string description);
 
 private:
-    string type_;
+
+
+};
+
+class BoostSelf {
+public:
+    BoostSelf();
+    void operator()(Move move);
+
+private:
+    double att_, def_, spa_, spdef_, speed;
     double chance_;
 
-    int priority_;
-    Status status_;
+};
 
-    double drain_;
-    double statChange_;
-    double critBoost_;
-    double flinch_;
-    double switch_;
-    double multiHit_;
-    double remove_item_;
-    double use_item_;
-    double trap_;
-    double hazard_;
-    double clearHazard_;
-    double forceSwitch_;
-    double recoil_;
-    double multiTurn_;
-    double speedInfluence_;
-    double moveRestrict_;
-    double changePP_;
-    double changeHP_;
-    double constant_;
-    double useWeight_;
-    double clearStatus_;
+class StatusOpp {
+public:
+
+private:
+};
+
+class HealSelf {
+public:
+
+private:
+};
+
+class DrainOpp {
+public:
+
+private:
+};
+class ConstDamage {
+public:
+
+private:
+};
+class HighCrit {
+public:
+
+private:
+};
+class CureSelfStatus {
+public:
+
+private:
+};
+class CureTeamStatus {
+public:
+
+private:
+};
+class SwitchSelf {
+public:
+
+private:
+};
+class SwitchOpp {
+public:
+
+private:
+};
+class MultiHit {
+public:
+
+private:
+};
+class BatonPass {
+public:
+
+private:
+};
+class ClearHazard {
+public:
+
+private:
+};
+class MultiTurn {
+public:
+
+private:
+};
+class Weather {
+public:
+
+private:
+};
+
+class Recoil {
+public:
+
+private:
+};
+class Explode {
+public:
+
+private:
+};
+class Trap {
+public:
+
+private:
+};
+class PreventMove {
+public:
+
+private:
+};
+class Flinch {
+public:
+
+private:
+};
+
+class Confuse {
+public:
+
+private:
+};
+class Protect {
+public:
+
+private:
+};
+class Sub {
+public:
+
+private:
+};
+class PassSub {
+public:
+
+private:
+};
+class KnockOff {
+public:
+
+private:
+};
+class PriorityDiff {
+public:
+
+private:
+};
+class Screens {
+public:
+
+private:
+};
+class Trick {
+public:
+
+private:
+};
 
 
 
+class Effect {
+public:
+
+    template<class T>
+    T effect;
+
+    Effect(string description){
+        //stuff here
+
+        effect = BoostOpp(description);
+
+    }
 
 
-
-
-
+private:
 
 
 };

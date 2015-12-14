@@ -11,7 +11,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = PokeFriend
 TEMPLATE = app
 
-CONFIG += c++11
+CONFIG += c++14
 
 QMAKE_CXXFLAGS += -Wno-sign-compare
 

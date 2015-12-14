@@ -21,6 +21,8 @@
  *  2) Impelment the constructor. Do we need a physical/special/none object? Nah, right? Maybe just a boolean or a string. Fuck secret sword and psyshock.
  *  3) Add operators to treat each move as if it were a string (for example: cout << (some move object); would print out the name of the move object)
  */
+
+
 class Move
 {
 public:
@@ -36,7 +38,7 @@ private:
     int damage_;
     double accuracy_;
     int pp_;
-    Effect effect_;
+    T effect_;
     int priority_;
 
 };

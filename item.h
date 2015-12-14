@@ -25,7 +25,7 @@ public:
 
 private:
     string name_;
-    Effect effect_;
+    Effect<int> effect_;
 
 };
 
