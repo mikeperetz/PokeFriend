@@ -1,11 +1,14 @@
 #ifndef BASESTATS_H
 #define BASESTATS_H
 
-#include "effect.h"
+
 #include <cstdint>
 #include <iostream>
 #include <vector>
 #include "stats.h"
+
+
+
 
 class BaseStats : public Stats
 {

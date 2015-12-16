@@ -1,10 +1,13 @@
 #ifndef ABILITY_H
 #define ABILITY_H
-#include "effect.h"
 #include <cstdint>
 #include <iostream>
+#include "effect.h"
 
-using namespace std;
+
+
+
+
 /**
  * @brief Each different ability is assigned an Ability object noting its "name" and its "effect". These ability objects are stored within the ability_library in the PokeLibrary class.
  * They are also used in the potential_abilities map in the Pokemon class.

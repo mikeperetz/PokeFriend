@@ -3,8 +3,10 @@
 
 #include <cstdint>
 #include <iostream>
+using std::string;
 
-using namespace std;
+
+
 
 class Nature
 {

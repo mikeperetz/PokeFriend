@@ -1,10 +1,13 @@
 #ifndef STATS_H
 #define STATS_H
 
-#include "effect.h"
+
 #include <cstdint>
 #include <iostream>
 #include <vector>
+
+using std::string;
+using std::vector;
 
 class Stats
 {

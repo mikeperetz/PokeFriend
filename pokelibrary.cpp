@@ -1,6 +1,6 @@
 #include "pokelibrary.h"
 
-
+using std::ifstream;
 
 
 PokeLibrary::PokeLibrary() //default construtor is the only constructor, and it constructs all of the sub-libraries
@@ -138,6 +138,7 @@ void PokeLibrary::make_move_library()
             if (move_acc == "∞") move_acc = "-1";
             string pp_eff = acc_pp_eff.substr(ppIndex+1, acc_pp_eff.length());
 
+
             int effOrTMIndex;
             for (effOrTMIndex = 0; (pp_eff.at(effOrTMIndex)!= ' '); effOrTMIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
 
@@ -151,11 +152,12 @@ void PokeLibrary::make_move_library()
 
 
             string move_pp = pp_eff.substr(0, effOrTMIndex);                                        //Yay! We stored i, so now we can extract that substring up to the space preceding the percent to get the name
+
             if (move_pp == "-") move_pp = "-1";
             string eff_or_tm = pp_eff.substr(effOrTMIndex+1, pp_eff.length());
 
 
-            if (eff_or_tm.at(0) == 'T' && eff_or_tm.at(1) == 'M'){
+            if ((eff_or_tm.at(0) == 'T' && eff_or_tm.at(1) == 'M' ) || (eff_or_tm.at(0) == 'H' && eff_or_tm.at(1) == 'M')){
 
                 int effIndex;
                 for (effIndex = 0; (eff_or_tm.at(effIndex)!= ' '); effIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
@@ -174,36 +176,13 @@ void PokeLibrary::make_move_library()
 
             }
 
+
+
             string move_eff = eff_or_tm;
-            string effChance = "-1";
 
+            //cout << move_eff << endl;
 
-
-            if (move_eff == "-") move_eff = "";
-
-
-
-            else{
-                int endIndex;
-                for (endIndex = 0; !(isdigit(move_eff.at(endIndex+1))) && !(move_eff.at(endIndex) == ' ' && move_eff.at(endIndex+1) == '-') ; endIndex++){       //continue until we hit the space preceding the usage percentage. We can't just iterate until we hit a space, because lots of abilities have spaces in them
-
-                    if (endIndex == move_eff.length()-1){                    //alternatively, if we hit the end of the line without finding a digit, we screwed up, so we'll display an error message and terminate the program
-
-                        cout << "Couldn't find effect" << endl;
-                        return;
-                    }
-                }
-
-
-                effChance = move_eff.substr(endIndex+1, move_eff.length());
-                if (effChance == "-" || effChance.length() == 0) effChance = "-1";
-
-
-
-                move_eff = move_eff.substr(0, endIndex);
-            }
-
-
+            if (move_eff == " -" || move_eff== "-") move_eff = "";
 
 
             //move_name, move_type, move_cat, move_dam, move_acc, move_pp, move_eff, effChance
@@ -211,7 +190,7 @@ void PokeLibrary::make_move_library()
 
             //  cout << "(Debug) All extracted info: " << move_name << " " << move_type << " " << move_cat << " " << move_dam << " " << move_acc << " " << move_pp << " " << move_eff << " " << effChance << endl;
 
-            (*move_library)[move_name] = Move(move_name, Type(move_type), move_cat, stoi(move_dam), stod(move_acc)/100, stoi(move_pp), Effect(move_eff, stod(effChance)/100));
+            (*move_library)[move_name] = Move(move_name, Type(move_type), move_cat, stoi(move_dam), stod(move_acc)/100, stoi(move_pp), Effect(move_eff));
 
 
 

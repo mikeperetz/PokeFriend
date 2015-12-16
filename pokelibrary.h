@@ -5,16 +5,10 @@
 #include <fstream>
 #include <iostream>
 #include <memory>
+
 #include "pokemon.h"
-#include "ability.h"
-#include "effect.h"
-#include "item.h"
-#include "move.h"
-#include "stats.h"
-#include "nature.h"
-#include "basestats.h"
-#include "statspread.h"
-#include "type.h"
+
+using std::unordered_map;
 
 /**
  * @brief The PokeLibrary class is the backbone of the entire structure (shit, didn't even get to the logic yet.... how tedious). It contains libraries to store pokemon, moves, abilities, items, teams(?), and effects(?).
@@ -25,7 +19,6 @@
  *  2) Figure out what else I have to do.
  */
 
-using namespace std;
 
 //the library will be populated with the common pokemon for that tier.
 //if you come across an unknown pokemon, it will add it to the map
@@ -39,8 +32,8 @@ public:
     /* probably some getters here to extract data (lol they aren't gonna know about the ratchet, grueling tedium that goes on under the hood) */
 
 
-    unique_ptr<unordered_map<string, Pokemon>> pokemon_library; //maps the name of a pokemon to its Pokemon object
-    unique_ptr<unordered_map<string, Move>> move_library;  //maps the name of a move to its BaseStats object
+    std::unique_ptr<unordered_map<string, Pokemon>> pokemon_library; //maps the name of a pokemon to its Pokemon object
+    std::unique_ptr<unordered_map<string, Move>> move_library;  //maps the name of a move to its BaseStats object
     unordered_map<string, BaseStats> base_stat_library;
 
 

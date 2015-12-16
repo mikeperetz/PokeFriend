@@ -4,16 +4,19 @@
 #include <map>
 #include <vector>
 #include "ability.h"
-#include "effect.h"
-#include "item.h"
-#include "move.h"
-#include "stats.h"
-#include "nature.h"
-#include "basestats.h"
-#include "statspread.h"
-#include "type.h"
 
-using namespace std;
+#include "move.h"
+
+#include "nature.h"
+
+
+#include "statspread.h"
+
+
+using std::string;
+using std::pair;
+using std::map;
+
 
 /**
  * @brief Each different pokemon is assigned a Pokemon object. These pokemon objects are stored within the pokemon_library in the PokeLibrary class. This is some complicated shit. Just like how PokeLibrary

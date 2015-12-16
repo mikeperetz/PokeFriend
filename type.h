@@ -4,13 +4,14 @@
 #include <cstdint>
 #include <iostream>
 
-using namespace std;
+using std::string;
+
 
 class Type
 {
 public:
     Type();
-    Type(string type_name);
+    Type(std::string type_name);
 };
 
 #endif // TYPE_H

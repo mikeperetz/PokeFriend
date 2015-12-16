@@ -5,7 +5,7 @@
 #include <cstdint>
 #include <iostream>
 
-using namespace std;
+
 
 /**
  * @brief Each different item is assigned an Item object noting its "name" and its "effect". These item objects are stored within the item_library in the PokeLibrary class.
@@ -25,7 +25,7 @@ public:
 
 private:
     string name_;
-    Effect<int> effect_;
+    Effect effect_;
 
 };
 

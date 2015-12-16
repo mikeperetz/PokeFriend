@@ -1,18 +1,13 @@
 #ifndef EFFECT_H
 #define EFFECT_H
 #include <cstdint>
-#include <map>
-#include <vector>
-#include "ability.h"
-#include "effect.h"
-#include "item.h"
-#include "move.h"
-#include "stats.h"
-#include "nature.h"
-#include "basestats.h"
+#include <iostream>
 #include "status.h"
-#include "statspread.h"
-#include "type.h"
+
+using std::string;
+using std::cout;
+using std::endl;
+
 
 /**
  * @brief Each different effect is assigned an Effect object noting ___________. These effect objects are stored within the effect_library in the PokeLibrary class.
@@ -24,7 +19,6 @@
  */
 
 
-using namespace std;
 
 /*
 
@@ -197,33 +191,37 @@ public:
     Effect();
     Effect(string description);
 
-double chance1, chance2;
+//double chance2; implement later, maybe
 
-double attmod, defmod, spamod, spdefmod, speedmod;
+double attmod, defmod, spamod, spdefmod, speedmod, accmod, evamod;
+
+double oattmod, odefmod, ospamod, ospdefmod, ospeedmod, oaccmod, oevamod;
 
 double healPercent;
+
+double recoilPercent;
+
+double chance1 = evamod = oevamod = attmod = defmod = spamod = spdefmod = speedmod = oattmod = odefmod = ospamod = ospdefmod = ospeedmod= accmod = oaccmod = healPercent = recoilPercent = 0;
+
+
+int multiTurn;
+
+int priority;
+
+int trap;
+
+int preventMove = multiTurn = priority = trap = 0;
+
+
+bool explode;
 
 bool cureSelf, cureTeam;
 
 bool switchSelf, switchOpp;
 
-int priority;
-
 bool multiHit;
 
 bool clearSide, clearBothSides;
-
-int multiTurn;
-
-//weather
-
-double recoilPercent;
-
-bool explode;
-
-int trap;
-
-int preventMove;
 
 bool flinch;
 
@@ -237,12 +235,14 @@ bool passSub;
 
 bool knockOff;
 
-bool tradeItem;
+bool player;
+
+bool tradeItem = explode = cureSelf = cureTeam = switchOpp = switchSelf = multiHit = clearBothSides = clearSide = flinch
+       = confuse = protect = sub = passSub = knockOff = player = false;
 
 
 
-
-Status status_type;
+Status status_type();
 
 
 

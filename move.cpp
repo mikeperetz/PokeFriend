@@ -5,7 +5,7 @@ Move::Move(): name_("N/A"), type_(Type()), category_("N/A"), damage_(0), accurac
 
 }
 
-Move::Move(string move_name, Type move_type, string move_cat, int move_dam, double move_acc, int move_pp, Effect move_eff): name_(move_name), type_(move_type), category_(move_cat), damage_(move_dam), accuracy_(move_acc), pp_(0), effect_(move_eff), priority_(move_eff.priority())
+Move::Move(string move_name, Type move_type, string move_cat, int move_dam, double move_acc, int move_pp, Effect move_eff): name_(move_name), type_(move_type), category_(move_cat), damage_(move_dam), accuracy_(move_acc), pp_(0), effect_(move_eff), priority_(0)
 {
 
 }

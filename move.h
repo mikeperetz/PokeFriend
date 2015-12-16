@@ -1,16 +1,9 @@
 #ifndef MOVE_H
 #define MOVE_H
 #include <cstdint>
-#include <map>
-#include <vector>
-#include "ability.h"
 #include "effect.h"
 #include "item.h"
 #include "move.h"
-#include "stats.h"
-#include "nature.h"
-#include "basestats.h"
-#include "statspread.h"
 #include "type.h"
 
 /**

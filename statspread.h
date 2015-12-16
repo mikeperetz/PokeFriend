@@ -5,8 +5,8 @@
 #include <cstdint>
 #include <iostream>
 #include <vector>
-#include "basestats.h"
 #include "stats.h"
+#include "basestats.h"
 
 class StatSpread
 {
