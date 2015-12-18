@@ -21,7 +21,10 @@ public:
     Item();                           //default constructor
     Item(string item_name);           //constructor takes in the name of the item and initializes "name" and "effect" (via the effect constructor)
 
+    bool operator==(const string & item_name);
     bool operator<(const Item& other) const;        //overloaded < operator does nothing. map won't compile otherwise.
+
+    string name() const;
 
 private:
     string name_;

@@ -19,3 +19,33 @@ Effect Move::effect() const
     return effect_;
 }
 
+double Move::accuracy() const
+{
+    return accuracy_;
+}
+
+int Move::damage() const
+{
+    return damage_;
+}
+
+string Move::category() const
+{
+    return category_;
+}
+
+Type Move::type() const
+{
+    return type_;
+}
+
+int Move::pp() const
+{
+    return pp_;
+}
+
+string Move::name() const
+{
+    return name_;
+}
+

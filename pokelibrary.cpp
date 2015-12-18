@@ -59,7 +59,7 @@ void PokeLibrary::make_move_library()
 {
     move_library.reset(new unordered_map<string, Move>());
 
-    string move_data;                                           //the line (pokemon name and stats)
+
 
     ifstream myfile ("C:\\Users\\mikeperetz2\\Documents\\Qt-Projects\\PokeFriend\\movelist.txt"); //load in the file. Idk why it makes me put the whole address. I will have to check later. Double \\ to escape twice cuz syntax
     if (myfile.is_open()){
@@ -431,11 +431,11 @@ void PokeLibrary::make_pokemon_library(){
                     }
                 }
 
-                string _move = move_probability.substr(0, i);
-                double _probability = stod(move_probability.substr(i+1, move_probability.length()));
+                string move_name = move_probability.substr(0, i);
+                double move_prob = stod(move_probability.substr(i+1, move_probability.length()));
 
-                Move move_obj; //change later
-                (*pokemon_library)[name].addMove(move_obj, _probability);
+
+                (*pokemon_library)[name].addMove((*move_library)[move_name], move_prob);
 
             }
 

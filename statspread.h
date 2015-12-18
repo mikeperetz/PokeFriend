@@ -18,7 +18,7 @@ public:
 
 
 
-    int hp() const;
+    int hp();
 
     int att() const;
 
@@ -37,6 +37,8 @@ public:
     Stats ev() const;
 
     Stats iv() const;
+
+    int curr_hp;
 
 private:
     int hp_;

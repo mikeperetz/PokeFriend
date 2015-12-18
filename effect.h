@@ -212,7 +212,6 @@ int trap;
 
 int preventMove = multiTurn = priority = trap = 0;
 
-
 bool explode;
 
 bool cureSelf, cureTeam;
@@ -242,7 +241,7 @@ bool tradeItem = explode = cureSelf = cureTeam = switchOpp = switchSelf = multiH
 
 
 
-Status status_type();
+Status status;
 
 
 

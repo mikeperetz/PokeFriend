@@ -28,11 +28,15 @@ public:
 
     int speed() const;
 
+    int curr_hp;
 
 
 
 
     Stats(string stat_string);
+
+
+    void setHp(int hp);
 protected:
     int hp_;
     int att_;

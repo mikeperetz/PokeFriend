@@ -15,6 +15,14 @@ Effect::Effect(string description)
 
     if (description == "") return;
 
+    if (description.find("Spore") != string::npos && description.find("sleep") != string::npos){
+
+        chance1 = 1;
+        status = Status("Sleep", 2);
+
+    }
+
+
     if (description.find("lower") != string::npos && description.find("higher") == string::npos && description.find("slower") == string::npos && description.find("Slower") == string::npos){
 
         if ( description.substr(description.length() - 2, description.length()) == " -" ) chance1 = 1.0;

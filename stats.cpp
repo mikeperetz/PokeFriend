@@ -33,6 +33,11 @@ Stats::Stats(string stat_string)
 
 }
 
+void Stats::setHp(int hp)
+{
+    hp_ = hp;
+}
+
 int Stats::hp() const
 {
     return hp_;

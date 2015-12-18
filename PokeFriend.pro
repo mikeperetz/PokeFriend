@@ -31,7 +31,9 @@ SOURCES += main.cpp\
     status.cpp \
     basestats.cpp \
     stats.cpp \
-    nature.cpp
+    nature.cpp \
+    scene.cpp \
+    decisiontree.cpp
 
 HEADERS  += mainwindow.h \
     pokelibrary.h \
@@ -47,7 +49,9 @@ HEADERS  += mainwindow.h \
     status.h \
     basestats.h \
     stats.h \
-    nature.h
+    nature.h \
+    scene.h \
+    decisiontree.h
 
 FORMS    += mainwindow.ui
 

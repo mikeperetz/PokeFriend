@@ -48,9 +48,9 @@ void Pokemon::addStatSpread(StatSpread statspread, double probability){
     potential_statspreads[statspread] = probability;
 }
 
-void Pokemon::addMove(Move move_obj, double probability)
+void Pokemon::addMove(Move move, double probability)
 {
-
+      potential_moves[move] = probability;
 }
 
 

@@ -21,6 +21,8 @@ StatSpread::StatSpread(Nature nature, BaseStats base_spread, Stats ev_spread, St
 
     speed_ = ( ( ( (2 * base_spread.speed() + iv_spread.speed() + ( ev_spread.speed() / 4 ) ) * level) / 100 ) + 5 ) * nature.speedMod();
 
+    curr_hp = hp_;
+
 }
 
 
@@ -46,7 +48,7 @@ bool StatSpread::operator==(const StatSpread& rhs){
 
 }
 
-int StatSpread::hp() const
+int StatSpread::hp()
 {
     return hp_;
 }
