@@ -431,13 +431,17 @@ void PokeLibrary::make_pokemon_library(){
                     }
                 }
 
+
                 string move_name = move_probability.substr(0, i);
                 double move_prob = stod(move_probability.substr(i+1, move_probability.length()));
+
+                //   cout << (*pokemon_library)[name].potential_moves.size() << endl;
 
 
                 (*pokemon_library)[name].addMove((*move_library)[move_name], move_prob);
 
-            }
+
+              }
 
             /*now to discard the teammates section */
             getline(myfile, junk); //one +

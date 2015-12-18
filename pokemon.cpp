@@ -17,7 +17,7 @@ Pokemon::Pokemon() : name_("N/A"),
 
 
 
-Pokemon::Pokemon(string pokemon_name): name_("N/A"),
+Pokemon::Pokemon(string pokemon_name): name_(pokemon_name),
     potential_statspreads(map<StatSpread, double>()),
     potential_abilities(map<Ability,double>()) ,
     potential_items(map<Item, double>()) ,
@@ -50,11 +50,20 @@ void Pokemon::addStatSpread(StatSpread statspread, double probability){
 
 void Pokemon::addMove(Move move, double probability)
 {
+
+
+   // if (potential_moves.find(move) != potential_moves.end() && move.name() == "Spore")
+     //   cout << move.name() << endl;
+
       potential_moves[move] = probability;
+    //  cout << move.name() << endl;
+
+
 }
 
 
 vector<pair<Ability, double> > Pokemon::getAbilities(){
+
     vector<pair<Ability, double>> abilities;
     for (auto it = potential_abilities.begin(); it!=potential_abilities.end(); it++ )
         abilities.push_back(*it); //push back the ability/probability pair
@@ -64,4 +73,10 @@ vector<pair<Ability, double> > Pokemon::getAbilities(){
 void Pokemon::setBase_stats(const BaseStats &base_stats)
 {
     base_stats_ = base_stats;
+}
+
+map<Move, double> Pokemon::getPotential_moves() const
+{
+
+    return potential_moves;
 }

@@ -23,6 +23,8 @@ public:
     Move(string move_name, Type move_type, string move_cat, int move_dam, double move_acc, int move_pp, Effect move_eff);                                         //default constructor, obviously. Has a lot of work to do (see: #1)
     bool operator<(const Move& other) const;        //overloaded < operator gets the compiler off my back (map class)
 
+    bool operator==(const Move & other) const;
+
     Effect effect() const;
 
     double accuracy() const;

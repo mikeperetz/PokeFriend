@@ -57,7 +57,11 @@ public:
 
     void setBase_stats(const BaseStats &base_stats);
 
-private:
+
+
+    map<Move, double> getPotential_moves() const;
+
+
 
     string name_;                                //the name of the pokemon, man
     BaseStats base_stats_;

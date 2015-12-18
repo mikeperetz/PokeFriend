@@ -14,6 +14,11 @@ bool Move::operator<(const Move& other) const{
     return false;
 }
 
+bool Move::operator==(const Move &other) const
+{
+    return (name_ == other.name());
+}
+
 Effect Move::effect() const
 {
     return effect_;

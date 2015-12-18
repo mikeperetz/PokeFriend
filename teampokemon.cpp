@@ -1,5 +1,15 @@
 #include "teampokemon.h"
 
+TeamPokemon::TeamPokemon(Pokemon pokemon)
+{
+    /*if(pokemon.name_ == "Breloom"){
+        moves.push_back();
+
+    }
+       */
+
+}
+
 TeamPokemon::TeamPokemon()
 {
 

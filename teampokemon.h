@@ -29,6 +29,7 @@ public:
 
     int calcDamage(TeamPokemon defender, int move);
 
+    TeamPokemon(Pokemon pokemon);
 private:
 
     //The revealed attributes of the pokemon (ie. that fall within the potential's probability threshold)

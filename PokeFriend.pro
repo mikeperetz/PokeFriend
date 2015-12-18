@@ -11,7 +11,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = PokeFriend
 TEMPLATE = app
 
-CONFIG += c++11
+CONFIG += c++11 \ console
 
 QMAKE_CXXFLAGS += -Wno-sign-compare -Wno-unused-parameter
 
@@ -53,10 +53,13 @@ HEADERS  += mainwindow.h \
     scene.h \
     decisiontree.h
 
-FORMS    += mainwindow.ui
+FORMS    +=
 
 DISTFILES += \
     pokemonlist.txt \
     stats.txt \
     usagestats.txt \
-    movelist.txt
+    movelist.txt \
+    MainForm.ui.qml \
+    Main.qml \
+    pokefriendlogo.png
